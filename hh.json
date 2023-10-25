@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/aa.jar;md5;81b4c5e1584fd94057adbf144cc07ca1",
+	"spider": "./jar/aa.jar;md5;fc220e1f9dff8ce2ee38d155f387ca90",
 	"wallpaper": "https://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -138,6 +138,18 @@
 			"changeable": 0,
 			"timeout": 30,		
 			"ext": "./json/aa.json$$$null$$$1"
+		},
+		{
+			"key": "皮皮虾",
+			"name": "🦐皮皮虾┃云盘",
+			"type": 3,
+			"api": "csp_Ppxzy",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0,
+			"timeout": 30,		
+			"ext": "./json/aa.json$$$https://ppxzy.net$$$null$$$1"
 		},
 		{
 			"key": "csp_Papercli",
