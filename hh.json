@@ -899,16 +899,6 @@
 			"changeable": 0
 		},	
 		{
-			"key": "drpy_js_moflix",
-			"name": "🪄moflix┃短剧",
-			"type": 3,
-			"api": "./js/lib/drpy2.min.js",
-			"ext": "./js/moflix.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0
-		},
-		{
 			"key": "drpy_js_kk",
 			"name": "🕋KK盘┃云盘",
 			"type": 3,
