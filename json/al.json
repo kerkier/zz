@@ -1,0 +1,53 @@
+{
+  "drives": [
+    {
+      "name": "小雅",
+      "server": "http://203.104.39.26:5678/",
+      "version": 3
+    },
+    {
+      "name":"自用",
+      "server":"https://hh.kerkier.repl.co/",
+      "login":{
+      "username":"box",
+      "password":"123456",
+      "version": 3
+      }
+    },
+    {
+      "name": "触光",
+      "server": "https://pan.ichuguang.com",
+      "version": 3
+    },
+    {
+      "name": "星梦",
+      "server": "https://pan.bashroot.top",
+      "version": 3
+    },
+    {
+      "name": "杜比",
+      "server": "https://dubi.tk",
+      "version": 3
+    },  
+    {
+      "name": "七米蓝",
+      "server": "https://al.chirmyram.com",
+      "version": 3
+    },   
+    {
+      "name": "神族九帝",
+      "server": "https://alist.shenzjd.com",
+      "version": 3
+    },
+    {
+      "name": "☃️姬路白雪",
+      "server": "https://pan.jlbx.xyz",
+      "version": 3
+   },
+   {
+      "name": "💦讯维云盘",
+      "server": "https://pan.xwbeta.com",
+      "version": 3
+   }
+  ]
+}

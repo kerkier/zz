@@ -1,0 +1,13 @@
+{
+'token':'84ae28dcf6074c3f9aa1af0d7b9f41f3',
+'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJkM2Q5MTFlYzhiNzE0NmQyYjRiMThkNmZkMWRjZmQ5ZiIsImF1ZCI6Ijc2OTE3Y2NjY2Q0NDQxYzM5NDU3YTA0ZjYwODRmYjJmIiwiZXhwIjoxNzA1OTU4OTMzLCJpYXQiOjE2OTgxODI5MzMsImp0aSI6ImZhMzljMmE5NTJjNzRlNDQ5YmY4YjgzZDExMzcwM2E1In0.piaAW_MDjenJaCKfHIjyjcJkCLgren-RV6Y2wvE5S58M0Okr2Y6b2lPkYnxPhr9KdaPAtOl9CJarxWFqvs04xg',
+'thread_limit':32,
+'vod_flags':'4kz|4k|auto',
+'quark_flags':'auto|4k|4kz',
+'aliproxy':'',
+'proxy':'',
+'open_api_url':'https://api-cf.nn.ci/alist/ali_open/',
+'danmu':true,
+'quark_danmu':true,
+'quark_cookie':'__pus=94f8040955a91d7f805b96d482fe1a98AARsgP5rhPs5muEJHwphulmxYZL+Ci81Q9u1Jy0nNJyIhY3Gbd54XByI+UO/k9FJmieFhDSDGnnb/9AnKJBCQA7+'
+}

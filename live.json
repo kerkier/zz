@@ -1,0 +1,5 @@
+{
+  "spider": "./jar/live.jar;md5;a0d6409d59f67ef375b53de71a75bd68",
+  "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=eth"]}]}]
+  }
