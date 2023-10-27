@@ -58,7 +58,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"ext": "./json/aa.json$$$http://fd.888484.xyz:33/$$$1"
+			"ext": "./json/aa.json$$$http://fd.888484.xyz:33/$$$null$$$1"
 		},
 		{
 			"key": "csp_Wobg",
@@ -69,7 +69,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"ext": "./json/aa.json$$$null$$$1"
+			"ext": "./json/aa.json$$$https://wobge.run.goorm.io/$$$1"
 		},
 		{
 			"key": "drpy_js_woggjs",
