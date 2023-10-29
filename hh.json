@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/aa.jar;md5;617461abd69d32fc32ea3a519444e6c5",
+	"spider": "./jar/aa.jar;md5;eb2be73e9af13285bbe17fdb8e8a23ea",
 	"wallpaper": "https://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -161,6 +161,18 @@
 			"changeable": 0,
 			"timeout": 30,		
 			"ext": "./json/aa.json$$$https://ppxzy.net$$$null$$$1"
+		},
+		{
+			"key": "南瓜",
+			"name": "🎃南瓜┃直连",
+			"type": 3,
+			"api": "csp_NanGua",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0,
+			"timeout": 30,		
+			"ext": "null$$$1"
 		},
 		{
 			"key": "csp_Papercli",
