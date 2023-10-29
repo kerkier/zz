@@ -291,29 +291,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"jar": "./jar/hh.jar;md5;3eb3583bc70b80ec673d88397967dbec"
-		},
-		{
-            "key": "JOJO",
-            "name": "🕊︎JOJO┃直连",
-            "type": 3,
-            "api": "csp_Jojo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext":{"danmu":true},
-            "timeout":30
-        },
-        {
-            "key": "Jiohub",
-            "name": "♑︎Jiohub┃直连",
-            "type": 3,
-            "api": "csp_Jiohub",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext":{"danmu":true},
-            "timeout":30
-        },
+		},	
 		{
             "key": "一起看 ",
             "name": "🎉一起┃App",
