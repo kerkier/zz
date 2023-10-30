@@ -305,15 +305,16 @@
 			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53"
 		},
 		{
-            "key": "一起看 ",
-            "name": "🎉一起┃App",
-            "type": 3,
-            "api": "csp_YQKan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
+			"key": "一起看",
+			"name": "🎉一起看┃App",
+			"type": 3,
+			"api": "csp_YQKan",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0,
 			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53"
-        },
+		},
         {
 			"key": "csp_zxzj",
 			"name": "☎在线┃直连",
