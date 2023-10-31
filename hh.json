@@ -254,10 +254,11 @@
 			"key": "追忆",
 			"name": "🐿追忆┃App",
 			"type": 3,
-			"api": "csp_AppDDMJ",
+			"api": "csp_AppSK",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
+			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53",
 			"ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZAH4tPWnVF46Ct0RcDCdqQ/iHaxETP6KexDCalbnKb235g2zI+TmNzCM49OFRCWdee3hnULz5M1CsK3w=="
 		},
 		{
