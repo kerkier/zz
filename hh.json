@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/aa.jar;md5;dfa0b60251798bc749150508ac57ddca",
+	"spider": "./jar/aa.jar;md5;edc36d93777d3549323e026e67b232b5",
 	"wallpaper": "https://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -27,7 +27,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53"
+			"jar": "./jar/hh.jar;md5;cf00cc8baef423e51187750ac973417d"
 		},
 		{
 			"key": "短剧网",
@@ -163,18 +163,6 @@
 			"ext": "./json/aa.json$$$https://ppxzy.net$$$null$$$1"
 		},
 		{
-			"key": "南瓜",
-			"name": "🎃南瓜┃直连",
-			"type": 3,
-			"api": "csp_NanGua",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 0,
-			"timeout": 30,		
-			"ext": "null$$$1"
-		},
-		{
 			"key": "csp_Papercli",
 			"name": "🗞️纸条(T4)┃云盘",
 			"type": 4,
@@ -205,8 +193,18 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53",
+			"jar": "./jar/hh.jar;md5;cf00cc8baef423e51187750ac973417d",
 			"ext": "kuau123@qq.com$$$aa123456"
+		},
+		{
+			"key": "蝴蝶",
+			"name": "🦋蝴蝶┃直连",
+			"type": 3,
+			"api": "csp_Hudie",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0
 		},
 		{
 			"key": "csp_Czsapp",
@@ -217,81 +215,8 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53",
+			"jar": "./jar/hh.jar;md5;cf00cc8baef423e51187750ac973417d",
 			"ext": "https://www.czzy88.com/"
-		},
-		{
-			"key": "Mino",
-			"name": "👻Mino┃App",
-			"type": 3,
-			"api": "csp_AppMao",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir$$$null$$$1"
-		},
-		{
-			"key": "热剧猫",
-			"name": "🦄️热剧猫┃App",
-			"type": 3,
-			"api": "csp_AppMao",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": "FbjDcUxPqpfNr0QF4QvE6sExbdFaCsJaXjxO/+6vlgsLQ5varHTH2V6Poee7Djr8Jz/R+GIpgnJnQ3krSZ9SRy8UOIbtjH3TUm9NrVkdyuAzfem0fT9yKBXkOxVq28ux/jLTJMYnSI8n4EpQvk6AcXZDdLamk1stGuAZbzYeBh2My+RQq8g8DOoxWcAPNXU6TCF5jgsdTzPvgFskwBJVrfZjjcLynmEhXHwD36QAZUcqhamhzRyjdcb79DK8hcq2QozIfxkadpK4dn0jw8kudBzd9MPssMT5nMxQ6IVYREIIDc4V1n7BrbKIGxS3a1lDUk9zW38G12j+2tNw4fXClSbM81zAdcM5lLT66EPmpxSW2Jd/0Hff1QwiiAuu8NNT2/u5raxPwPzQtA==$$$null$$$1"
-		},
-		{
-			"key": "一念",
-			"name": "🍠一念┃App",
-			"type": 3,
-			"api": "csp_AppMao",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddka4wFqHtLjQhalHiNTh6w9Of9ADGP70IR6Z3jEgnqm+oREdxZJm8nktRA8E9V38KMk34oPdI8ugMCclsIKNWf0oEEFd7jQg+J06kiGg57gdJuphV2ODd3REMVHU34759SkYEr7GD0jCiO/TMpAnm1emAQazjYwcmYLuSflAsqMVHYxrRyfbS3OLioIlQzOBbFGItBtIH0Vv1gtD3PSTJGX1waF9CIXAG1ybvpNQq5OyVk3/tqSSPCtQmk6jE/gGfgSfZweIe2DCznW9/i0bY8Zgs2L/Ux6Y8yI2fjwRz6k++NcfQIj0sZjnpv7JmoMO+HfQ+lqKgJbQFoIwooyyYo6SgNP1zJ/SS$$$null$$$1"
-		},
-		{
-			"key": "追忆",
-			"name": "🐿追忆┃App",
-			"type": 3,
-			"api": "csp_AppSK",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53",
-			"ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZAH4tPWnVF46Ct0RcDCdqQ/iHaxETP6KexDCalbnKb235g2zI+TmNzCM49OFRCWdee3hnULz5M1CsK3w=="
-		},
-		{
-			"key": "皮皮虾",
-			"name": "🦀皮皮虾┃App",
-			"type": 3,
-			"api": "csp_AppSK",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53",
-			"ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZTGJxVRTBDqPTqg1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
-		},
-		{
-			"key": "觅视频",
-			"name": "🗽觅视频┃App",
-			"type": 3,
-			"api": "csp_AppSK",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53",
-			"ext": "FbjPcVZY48PN/RIZ5UWFro5tctBJAZhIEz5OvLqy0VZGH5/R/mCR2kPI46ezGyKoem+Vym4tmTJ5Gio/CM0pPlNKXd+d2hTULzhB0SoYmLd4"
-		},
-		{
-			"key": "布雷",
-			"name": "⚡布雷┃直连",
-			"type": 3,
-			"api": "csp_AppMao",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTA5hPEi0VqbGzxElfS8iS6G6dxFvYo6amRiS2bHOKw3Esnj46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaM/FqHtLjQhalHiNTh6w9P3uBbzOpYja64omwk1u3D/dlZ+e5i4lng3PuAGTEUBPE34oPNY9+tFWr0Ibd9pVxAueSBD3QUsYQDulUET8DZ4nPtGpPvrhlgkKksJ9s4mWmxer4u57B2OO9qc8jua09TybbufTjMaeJGQem8U1MtbZnyk1e3UtOPZyIlX24R7PWpyLc4U0VzmkquLAB3kRiQZa1pOYUYuwm6vu/8spvSLhGbMhy+5bLc5qpPAk0mnh1ezzPQa03Cfg3JV6WGwrolC1+2steoOnaic6WQq9F2nYpq7a3QVfAbWyvIP+/mhJrtEycOuc999pfBr4Ub+yNWhIq06XaaI3EDX8h/oclhtPP9fIlIhPPNgZO/XgdX80PcGXdT2F0EtU+FJ+NoZjzcXq7OcD0dUFMudEpZ/ISVFLEQAhzFhoC3qYpmCY6xDrfjIL1W2Yh0LSk9qyfm9cw0EjDJZyt2PsVT3JxLuXjMgv0cdhPu2sTfBlL672ElQFkkjgpIL+YIQoLV69KeUYi3LYYjLFdixymHlDbdyGT19XRgwG5Z8t4e08xaRZXOd1ujQ/ZNncMJrpVQhY40mmnNcN2PHw5qapafKYcsoRMMM1d7R742jf5UE/zwNFXI+WRzxjrXerF/2fmmU0+8OGIVz9SWsllf++zV27ZOwFQ6qy07MrJ7TMEHHBrtYDaoFiOfBRLGyodnWIp1ZCPGqIxcA/5s+cdVwkd2wJdB1OKIqhz+Eg+0zmTRTFNUYUZWXvKEhDs7BuoaAQz5ArXla7xAg/F0Z1goy7k+xJZlmJlj1RJ5KdKlUvrDEQ8lCSIzPNPMz+g==$$$null$$$1"
 		},
 		{
 			"key": "csp_77",
@@ -302,7 +227,119 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53"
+			"jar": "./jar/hh.jar;md5;cf00cc8baef423e51187750ac973417d"
+		},
+		{
+			"key": "南瓜",
+			"name": "🎃南瓜┃直连",
+			"type": 3,
+			"api": "csp_NanGua",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0,
+			"timeout": 30,		
+			"ext": "null$$$1"
+		},
+		{
+			"key": "极光",
+			"name": "☀极光┃App",
+			"type": 3,
+			"api": "csp_Skapp",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsK3w==$$$null$$$1"
+		},
+		{
+			"key": "橘子",
+			"name": "🍊橘子┃App",
+			"type": 3,
+			"api": "csp_AppMao",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A=$$$null$$$1"
+	    },
+		{
+			"key": "Mino",
+			"name": "👻Mino┃App",
+			"type": 3,
+			"api": "csp_AppMao",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMadKqyvkZHa4cKY00bKiax6cNS1sUwGtRtTPJpeHYNbkJ/qShtThn2mkQV0ksCk9dOn/Sso0k6ekcjwL0IeWwStZOj2QizaOvgpwSFuY+USrDWaz8HG5maYHQhycRne0Lm4MH/zZDKvuU3zYNjQ1QOCME78G/GmYmBWSbaRG1mfWIeRGk++hT1oq9Ave6OtXvJtQakC5cajrjlqReWvyuI2cYfqB+StGZX1n2ygo8mgoD52eQXnZ6rjTJH12WWUZKXdVAQcnjS98Nzku6BBoJK7fzCTshe2NF2qFXG2+XAVIAndI++gl7W6EDzdH4RMu13anxmIedUPsXjkLr99udbYtXOZH1cSudQnvk2hhckqLuOMFVVFNv9E+d/fiAiHx0XuDV8nnX+UI/cf8ddku+5NDK6Yxo0RQgWz9XXfw0e0TND7/2Cn2SzXxHcW2N1w20hivGGowb4/oCa9T1kKH1YuZkXm4RXpe5S1ZvAD0f6NqLSY4KWoWvXYOgGWlBRex0aNbVH3v3c7y+McjU=$$$null$$$1"
+		},
+		{
+			"key": "繁星",
+			"name": "💥繁星┃App",
+			"type": 3,
+			"api": "csp_AppMao",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTvmeOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXbg8ZeqKSLCRI+/RRQBPc6vWx9MDProlGxbNkNVwDJ+xZqA3LjZmRIzHgX1pPRHIeXgUD1SnKnP50u+DrnDvAnzqAN4YbvKvEmRyu91mw5dothweuk0B210O5i9VKs/rU4uU1g5i9+xgl5lyke5uYNicyRgauyPMi/PGzF6pDzMihKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5kOayt6Ra40Irmh/M2AvZsLJYWpGzIW$$$null$$$1"
+		},
+		{
+			"key": "觅视频",
+			"name": "🗽觅视频┃App",
+			"type": 3,
+			"api": "csp_Skapp",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": "FbjPcVZY48PN/RIZ5UWFro5tctBJAZhIEz5OvLqy0VZGH5/R/mCR2kPI46ezGyKoem+Vym4tmTJ5Gio/CM0pPlNKXd+d2hTULzhB0SoYmLd4$$$null$$$1"
+		},
+		{
+			"key": "皮皮虾",
+			"name": "🦀皮皮虾┃App",
+			"type": 3,
+			"api": "csp_Skapp",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZTGJxVRTBDqPTqg1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw==$$$null$$$1"
+		},
+		{
+			"key": "嘿嘿",
+			"name": "🍠嘿嘿┃App",
+			"type": 3,
+			"api": "csp_AppMao",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": "FbjGYUhJ48PN5SRV8ymH7sxmDexYH70Jfi9xvvb3lUoiQZT4niDpyWHPvb6yEhCFbEq5hiEGh3YxXwh5W7NvWBQ8JoHwkF2vTDAYvVEeme53A/PWbglRCQDgEAU+vbK+/T2GSrMOHskluhobn3mSQhtfMuOPoUNIZtFdK24EO1SS5vh2xN8jBqcVac55PkkpWTt2qzo8UTfii3ohtRpvy5Mmw7PxnVcfMzdDzYE+XjRYz9LdmFbvNICYo3D/0YvzNMmaHG1IUw==$$$null$$$1"
+		},
+		{
+			"key": "嗨嘢",
+			"name": "👀嗨嘢┃App",
+			"type": 3,
+			"api": "csp_AppMao",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": "FbjCcU1KqpC5p0RX4Q3D+NciPclIFs4EHzwZtdHSwE4eMJ/Nnh/51UHa3ZS8BimxKHKF1VAUtSsbdCQtWZJcTlUXW4DCv0KpS1xF01Vu5OxfAIXSOTBUA0DDZHsxv4WA2Sn7UdMuENMQpB9FkQKcTF50c7ySnFoRZu8EUWweBiyt6PwI+/Q2MNsbV+5oOVNTSDB91w82YAf2jCUH9xRPmpt2q6TAtRofVmJR1q4bVzFW3MrK3hWueIyRsyOllsj/P86fFmdEHuXnNydMv58nBxKvoLu9pNg=$$$null$$$1"
+		},
+		{
+			"key": "快影",
+			"name": "🦄快影┃App",
+			"api": "csp_AppYsV2",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": "http://iosa.xn--654a.cc/api.php/app/"
+		},
+		{
+			"key": "追忆",
+			"name": "🐿追忆┃App",
+			"type": 3,
+			"api": "csp_Skapp",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZAH4tPWnVF46Ct0RcDCdqQ/iHaxETP6KexDCalbnKb235g2zI+TmNzCM49OFRCWdee3hnULz5M1CsK3w==$$$null$$$1"
 		},
 		{
 			"key": "一起看",
@@ -313,7 +350,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53"
+			"jar": "./jar/hh.jar;md5;cf00cc8baef423e51187750ac973417d"
 		},
         {
 			"key": "csp_zxzj",
@@ -324,7 +361,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53",
+			"jar": "./jar/hh.jar;md5;cf00cc8baef423e51187750ac973417d",
 			"ext": "https://www.zxzj.pro"
 		},
 		{
@@ -336,7 +373,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53",
+			"jar": "./jar/hh.jar;md5;cf00cc8baef423e51187750ac973417d",
 			"ext": "https://www.maolvys.com/"
 		},
 		{
@@ -348,7 +385,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53",
+			"jar": "./jar/hh.jar;md5;cf00cc8baef423e51187750ac973417d",
 			"ext": "http://rzys.xyz"
 		},
 		{
@@ -360,7 +397,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53",
+			"jar": "./jar/hh.jar;md5;cf00cc8baef423e51187750ac973417d",
 			"ext": "https://haozhansou.com/"
 		},
 		{
@@ -374,18 +411,6 @@
 			"ext": "https://api123.adys.app/xgapp.php/v3/"
 		},
 		{
-			"key": "csp_Xinsj",
-			"name": "🆕新视觉┃直连",
-			"type": 3,
-			"api": "csp_Xinsj",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53",
-			"ext": "https://www.hdmyy.com/"
-		},
-		{
 			"key": "csp_Bttoo",
 			"name": "🥂比特┃直连",
 			"type": 3,
@@ -394,7 +419,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53"
+			"jar": "./jar/hh.jar;md5;cf00cc8baef423e51187750ac973417d"
 		},
 		{
 			"key": "贱贱",
@@ -417,7 +442,7 @@
 			"quickSearch": 1,
 			"changeable": 0,
 			"timeout": 30,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53",
+			"jar": "./jar/hh.jar;md5;cf00cc8baef423e51187750ac973417d",
 			"ext": "vip.lyyytv.cn"
 		},
 		{
@@ -429,7 +454,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53",
+			"jar": "./jar/hh.jar;md5;cf00cc8baef423e51187750ac973417d",
 			"ext": "https://www.libvio.pro"
 		},
 		{
@@ -441,7 +466,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53"
+			"jar": "./jar/hh.jar;md5;cf00cc8baef423e51187750ac973417d"
 		},
 		{
 			"key": "csp_Nmys",
@@ -452,8 +477,20 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53",
+			"jar": "./jar/hh.jar;md5;cf00cc8baef423e51187750ac973417d",
 			"ext": "./json/nmys.json"
+		},
+		{
+			"key": "csp_Xinsj",
+			"name": "🆕新视觉┃直连",
+			"type": 3,
+			"api": "csp_Xinsj",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0,
+			"jar": "./jar/hh.jar;md5;cf00cc8baef423e51187750ac973417d",
+			"ext": "https://www.hdmyy.com/"
 		},
 		{
 			"key": "csp_Cokemv",
@@ -464,7 +501,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53"
+			"jar": "./jar/hh.jar;md5;cf00cc8baef423e51187750ac973417d"
 		},
 		{
 			"key": "csp_kuaikan",
@@ -475,18 +512,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0
-		},
-		{
-			"key": "csp_Ysgc",
-			"name": "🏭工厂┃直连",
-			"type": 3,
-			"api": "csp_Ysgc",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53",
-			"ext": "https://www.ysgc1.cc"
 		},
 		{
 			"key": "率率",
@@ -519,7 +544,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53"
+			"jar": "./jar/hh.jar;md5;cf00cc8baef423e51187750ac973417d"
 		},
 		{
 			"key": "csp_Ying",
@@ -530,7 +555,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53"
+			"jar": "./jar/hh.jar;md5;cf00cc8baef423e51187750ac973417d"
 		},
 		{
 			"key": "csp_Ysj",
@@ -541,7 +566,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53"
+			"jar": "./jar/hh.jar;md5;cf00cc8baef423e51187750ac973417d"
 		},
 		{
 			"key": "csp_Anime1",
@@ -552,7 +577,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53"
+			"jar": "./jar/hh.jar;md5;cf00cc8baef423e51187750ac973417d"
 		},
 		{
 			"key": "csp_Yj1211",
@@ -563,7 +588,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53"
+			"jar": "./jar/hh.jar;md5;cf00cc8baef423e51187750ac973417d"
 		},
 		{
 			"key": "Aid",
@@ -577,7 +602,7 @@
 				"type": "rect",
 				"ratio": 3.8
 			},
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53"
+			"jar": "./jar/hh.jar;md5;cf00cc8baef423e51187750ac973417d"
 		},
 		{
 			"key": "88js",
@@ -878,7 +903,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53"
+			"jar": "./jar/hh.jar;md5;cf00cc8baef423e51187750ac973417d"
 		},
 		{
 			"key": "csp_Bili",
@@ -893,7 +918,7 @@
 			"quickSearch": 0,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;aabde6a8ab69185b3de13788799f5f53",
+			"jar": "./jar/hh.jar;md5;cf00cc8baef423e51187750ac973417d",
 			"ext": "./json/bili.json"
 		},
 		{
