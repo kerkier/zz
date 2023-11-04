@@ -205,7 +205,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"ext": "https://yundun-hdsign.zhuifeng100.cn"
+			"ext": "https://yundun-hdsign.zhuifeng100.cn$$$null$$$1"
 		},
 		{
 			"key": "csp_Czsapp",
@@ -330,7 +330,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"ext": "http://iosa.xn--654a.cc/api.php/app/"
+			"ext": "http://iosa.xn--654a.cc/api.php/app/$$$null$$$1"
 		},
 		{
 			"key": "追忆",
@@ -409,7 +409,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"ext": "https://api123.adys.app/xgapp.php/v3/"
+			"ext": "https://api123.adys.app/xgapp.php/v3/$$$null$$$1"
 		},
 		{
 			"key": "csp_Bttoo",
