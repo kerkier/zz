@@ -204,7 +204,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0
+			"changeable": 0,
+			"ext": "https://yundun-hdsign.zhuifeng100.cn"
 		},
 		{
 			"key": "csp_Czsapp",
@@ -249,7 +250,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsK3w==$$$null$$$1"
+			"ext": "WA7zWO4h1O3BCfjhh144pHQd5cLx+88eKSkKzbvHVUg5XDKtGQUohbbRncikOu0w3F+STmS5r0IZuQ3uMIQNXNEeYSl6rdGlV5wl7eqqy028yM+VNqvnmhq4J+IaksUdSrtsQ0vw3uwyeeMT+gIEdHOQI9vr6G6lZwWoKteWj/ZmFxBZ4R2JTUz6Dg0FqHWlkHFkhKiFGijgkjDVrSvFhDEVWz73/JXd3Xz+c6lf4cwXHUTXyJN7adfOwbqT+L806DJsiptKYGyUEsoF3YwJs4AAEWPhrigu9GwjKx5+Z1veLkg4mSdMpKI77l5ZLAi1tujlp7kCRDRzoqfxjR/eMaA==$$$null$$$1"
 		},
 		{
 			"key": "橘子",
@@ -265,11 +266,11 @@
 			"key": "Mino",
 			"name": "👻Mino┃App",
 			"type": 3,
-			"api": "csp_AppMao",
+			"api": "csp_Appto",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMadKqyvkZHa4cKY00bKiax6cNS1sUwGtRtTPJpeHYNbkJ/qShtThn2mkQV0ksCk9dOn/Sso0k6ekcjwL0IeWwStZOj2QizaOvgpwSFuY+USrDWaz8HG5maYHQhycRne0Lm4MH/zZDKvuU3zYNjQ1QOCME78G/GmYmBWSbaRG1mfWIeRGk++hT1oq9Ave6OtXvJtQakC5cajrjlqReWvyuI2cYfqB+StGZX1n2ygo8mgoD52eQXnZ6rjTJH12WWUZKXdVAQcnjS98Nzku6BBoJK7fzCTshe2NF2qFXG2+XAVIAndI++gl7W6EDzdH4RMu13anxmIedUPsXjkLr99udbYtXOZH1cSudQnvk2hhckqLuOMFVVFNv9E+d/fiAiHx0XuDV8nnX+UI/cf8ddku+5NDK6Yxo0RQgWz9XXfw0e0TND7/2Cn2SzXxHcW2N1w20hivGGowb4/oCa9T1kKH1YuZkXm4RXpe5S1ZvAD0f6NqLSY4KWoWvXYOgGWlBRex0aNbVH3v3c7y+McjU=$$$null$$$1"
+			"ext": "gp154Y4c5/+AWrbDCpKosu8KcJnpV1OWs2/AQOulsT6Zvh/hJWriELmlIl/4Kj4E/cKagz+HTmCPEw8giV4cM5CupQy1nQcDBw0thnFu1VuFmvuykwZQGg2zM+35JUluN7zJ3E0yCF2WZJzLqPutwvkLxvEyhPME6x8cfY/mkIhkPJET/DzKF+NVk85/MlTgD3anFURB9q4TMuCTWwMmkW1c2R8FmnWk3HVwVW8Gug2pXjOusrQtGvOcJ1BRe10IyUeERxvw3pz8RjcAC8qgNkDIq4LRf95zXmn6iP9hkAzCriVG4JA8gdPbi21pZARUCBBnIYhSjHbGxAJdmbXmL5a59f28GLxX3xFiCI7B2XLlz2DzMBnPhHW+Tv4dTDSLhUzX1SUqJ3vKw6ioahLCXsqTGBdPRVTmNuDRIguHmK4S9d38X67b4hnbbQP4ptkwXs6AVpuDXV/p5UCICqAenXp7kFxqx/J+AKIqoAoqNXZWC7Gse4Mq2+zHWD6JTSX/Gi8Cx/kcky6ODl8vcJfzHp+csjGTePvl0efuspHGk/ySU9Qhlwy+mkQexAg6+tkR2g2Gd1i8jL8VCA/ImAbellDTsMvivAaiWeGdxqqLUpTJ4k2jtsqDpU0dRDqtzKdD+TovO5U1KZnUPhJmLJSEGZjSI/1S3J1/+qKAwdwtxsYGlDJ7xb+7CKGisvKEswq7QazWY7hZHDWgRJQLDsru0zv0GIVrqoRpErXx3MCX+8UDS6mkANWc0p0xDtGojmpV9U/570Cyuuw+6uQpr2MwMXNPWfuawTwjT77yOpM1xpH+ictVc8ecfU89jAj1y3so3KS2sPiYkMKXF3XwG+PIinlw/LUGOcjMx8Gajpwu3kL86LbAY+75raVCFowM50v8rX6YhpEck12ifLtYPpJN51roGkAYZQKxiqKkVrtxC6HRkgLC/jl+WAA8Q15wvuLDd95WgtkmEe2bCzcIO1Q4lJMYpXV511psqHxY1RH6aSQjjjZybS8pNZDWA8a656n3n$$$null$$$1"
 		},
 		{
 			"key": "繁星",
@@ -305,11 +306,11 @@
 			"key": "嘿嘿",
 			"name": "🍠嘿嘿┃App",
 			"type": 3,
-			"api": "csp_AppMao",
+			"api": "csp_DDMJ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"ext": "FbjGYUhJ48PN5SRV8ymH7sxmDexYH70Jfi9xvvb3lUoiQZT4niDpyWHPvb6yEhCFbEq5hiEGh3YxXwh5W7NvWBQ8JoHwkF2vTDAYvVEeme53A/PWbglRCQDgEAU+vbK+/T2GSrMOHskluhobn3mSQhtfMuOPoUNIZtFdK24EO1SS5vh2xN8jBqcVac55PkkpWTt2qzo8UTfii3ohtRpvy5Mmw7PxnVcfMzdDzYE+XjRYz9LdmFbvNICYo3D/0YvzNMmaHG1IUw==$$$null$$$1"
+			"ext": "ENnRz/ih1l1c66N6BKFOz+YBuSQ9MLSIBiAZlncrjRjTTZLY5CLlI3oumb/OprDun/JzBv3XY6Dc8lfVB0P9b9tMf9CfR/6c+hvNyc8mNR69yCBfLyi4ao8Fd/OopJkf3OcGcg1thSSUDnMeVkSmetn4rDOY5DrRy2mAzg/Or984N1BHSVwdPoWt24CC+8LaBws6uTMruROR+L7CliEDYnYCy9YTzqMt1XRkc6Cq5uHyiSIKemgPUymHu2fAlqNq/9WfwSciXCKpgcJmNCd7QpiBBQRqjem/F2zQ0wDMhRJfggvkGB+z+4nttmt9b7eD33X24h8kRxoFbeTJ3QRiIfI24H0TxUm6TJFYHEa6DgTNEVpQ8ELDtBJz5rA3ThOYAyePCf8pC4Y4nfZUBiJ7gUNJ9sOBUgSgFwa0badfvf8KtA1jLjTBqekzuwr6sFCb0i2iYreH6+m2micxUzpBVdn5NmkaSP86xhYLIrCdew5XZBFexVpVTcEDdpN7G4wWd/5/OuVTlkxGBEvKFt3uxcLH2e32LhaBoPAkuBtnoOrnuaGWmEMRpxBPA5tkA+qJ5hAs43Q6T33WdHCMyhJTP5y0bO871P/UowIaM+ZcLhs9YdmcassMZIr/wxVrbSHgW/Yh2eERZ0n6Zzn5qxZv72zxtSPrJd8NQ5zu8geZlZ30=$$$null$$$1"
 		},
 		{
 			"key": "嗨嘢",
@@ -339,7 +340,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZAH4tPWnVF46Ct0RcDCdqQ/iHaxETP6KexDCalbnKb235g2zI+TmNzCM49OFRCWdee3hnULz5M1CsK3w==$$$null$$$1"
+			"ext": "fp+Puic52uOH5aTguOKRiw/ZibcyJvxhfpwSfRklFDCWKaYEoo7+jMwyONOiBhgaFxj32moEgBOnvHt8VUhOZyW7rZ909unwZhXwBZtYukZvqr6ugrt+0/qhs8zhtlJxgpZzkuaxT4jgT6JJwZgFGV2Cv4ls7HiT2uamTFO+5MQIqWUFT4oetmIzMJSeoC1BZh/cHX2do6fqCDZ2nfSSCJc9Dkx0ZEqMox3QUdhtKsxFbcUN1b57bboXe3swY64ExAUYst1gkowQZkeeiPrpw/a10h9Armdng+U8+eSGQKzBVfIYGSXGUolwt6DTTEyBn/DhlQuN73HX0SQNuev4BGQ==$$$null$$$1"
 		},
 		{
 			"key": "一起看",
