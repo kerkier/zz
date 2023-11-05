@@ -81,6 +81,16 @@
 			"ext": "./json/bb.json"
 		},
 		{
+			"key": "drpy_js_wobgjs",
+			"name": "👻玩偶表哥(JS)┃云盘",
+			"type": 3,
+			"api": "./js/wobg.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": "./json/bb.json"
+		},
+		{
 			"key": "csp_woggcli",
 			"name": "☠️玩偶哥哥(T4)┃云盘",
 			"type": 4,
