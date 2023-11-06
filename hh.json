@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/aa.jar;md5;edc36d93777d3549323e026e67b232b5",
+	"spider": "./jar/aa.jar;md5;00d754de055090df9f32723e0b4846d8",
 	"wallpaper": "https://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -609,8 +609,7 @@
 			"key": "88js",
 			"name": "⚽ 88┃看球",
 			"type": 3,
-			"api": "./js/lib/drpy2.min.js",
-			"ext": "./js/88看球.js",
+			"api": "csp_Kanqiu",
 			"style": {
 				"type": "rect",
 				"ratio": 1
