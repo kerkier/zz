@@ -4,7 +4,7 @@ import {initAli, detailContent, playContent}  from './lib/ali.js';
 
 let siteKey = '';
 let siteType = 0;
-let siteUrl = 'http://fd.888484.xyz:33/';
+let siteUrl = 'http://wogg.xyz/';
 let UA = "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1";
 let patternAli = /(https:\/\/www\.aliyundrive\.com\/s\/[^"]+)/
 
