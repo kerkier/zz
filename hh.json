@@ -80,7 +80,7 @@
 			"changeable": 0,
 			"ext": "./json/bb.json"
 		},	
-		{
+		/*{
 			"key": "csp_woggcli",
 			"name": "☠️玩偶哥哥(T4)┃云盘",
 			"type": 4,
@@ -90,7 +90,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"ext": "./json/bb.json"
-		},
+		},*/
 		{
 			"key": "Hdhive",
 			"name": "🏺影巢┃云盘",
@@ -162,7 +162,7 @@
 			"timeout": 30,		
 			"ext": "./json/aa.json$$$https://ppxzy.net$$$null$$$1"
 		},
-		{
+		/*{
 			"key": "csp_Papercli",
 			"name": "🗞️纸条(T4)┃云盘",
 			"type": 4,
@@ -183,7 +183,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"ext": "./json/bb.json"
-		},	
+		},*/	
 		{
 			"key": "csp_Jianying",
 			"name": "✨简影┃直连",
