@@ -70,7 +70,7 @@
 			"changeable": 0,
 			"ext": "./json/aa.json$$$https://wobge.run.goorm.io/$$$1"
 		},
-		{
+		/*{
 			"key": "drpy_js_woggjs",
 			"name": "💀玩偶哥哥(JS)┃云盘",
 			"type": 3,
@@ -80,7 +80,7 @@
 			"changeable": 0,
 			"ext": "./json/bb.json"
 		},	
-		/*{
+		{
 			"key": "csp_woggcli",
 			"name": "☠️玩偶哥哥(T4)┃云盘",
 			"type": 4,
