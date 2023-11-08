@@ -82,16 +82,6 @@
 			"ext": "./json/bb.json"
 		},	
 		{
-			"key": "csp_woggcli",
-			"name": "☠️玩偶哥哥(T4)┃云盘",
-			"type": 4,
-			"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 0
-		},
-		{
 			"key": "Hdhive",
 			"name": "🏺影巢┃云盘",
 			"type": 3,
@@ -161,26 +151,6 @@
 			"changeable": 0,
 			"timeout": 30,		
 			"ext": "./json/aa.json$$$https://ppxzy.net$$$null$$$1"
-		},
-		{
-			"key": "csp_Papercli",
-			"name": "🗞️纸条(T4)┃云盘",
-			"type": 4,
-			"api": "http://home.jundie.top:9520/spider/cli_gitCafe?sort=原画,蓝光,超清,高清",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 0
-		},
-		{
-			"key": "csp_Alicli",
-			"name": "🔎聚搜(T4)┃云搜",
-			"type": 4,
-			"api": "http://home.jundie.top:9520/ali/cli_Alii?sort=原画,蓝光,超清,高清",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 0
 		},
 		{
 			"key": "csp_Jianying",
