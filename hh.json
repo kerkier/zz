@@ -5,7 +5,7 @@
 			"key": "豆豆",
 			"name": "🖌豆瓣┃索引",
 			"type": 3,
-			"api": "csp_Douban",
+			"api": "csp_DouDou",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
