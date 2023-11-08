@@ -1440,13 +1440,6 @@
 			"url": "https://xhdwc.tk/tvlive.txt",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
-			"name": "优兔",
-			"type": 0,
-			"url": "https://gh-proxy.com/https://raw.githubusercontent.com/zzq12345/YouTube_to_m3u/main/youtube.m3u",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		}
 	]
 }
