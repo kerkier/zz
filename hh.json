@@ -27,7 +27,8 @@
 			"api": "csp_YGP",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0
+			"changeable": 0,
+			"jar": "./jar/hh.jar;md5;488cfa45fed992feb2a2344586970d90"
 		},
 		{
 			"key": "短剧网",
@@ -347,8 +348,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;488cfa45fed992feb2a2344586970d90"
+			"changeable": 0
 		},
         {
 			"key": "csp_zxzj",
