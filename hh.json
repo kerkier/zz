@@ -77,7 +77,7 @@
 			"api": "./js/wogg.js",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0
+			"changeable": 0,
 			"ext": "./json/bb.json"
 		},	
 		{
