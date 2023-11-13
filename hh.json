@@ -5,12 +5,12 @@
 			"key": "豆豆",
 			"name": "🖌豆瓣┃索引",
 			"type": 3,
-			"api": "csp_DouDou",
+			"api": "csp_Douban",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
 			"changeable": 1,
-			"jar": "./jar/hh.jar;md5;f6ce0ce7bd8b398540be062ebef7051d"
+			"ext": "./json/doban.json"
 		},
 		{
 			"key": "drpy_js_磁力熊",
