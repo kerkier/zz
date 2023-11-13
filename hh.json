@@ -885,20 +885,9 @@
 			"quickSearch": 0,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;488cfa45fed992feb2a2344586970d90",
-			"ext": "./json/bili.json"
-		},
-		{
-			"key":"bili",
-			"name":"B站 | Bili[jar]",
-			"type":3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
 			"ext":{
 				"type":"演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
-				"cookie":""
+				"cookie":"buvid3=3503378A-12C7-AA5C-100C-FC814999E60561361infoc; buvid4=FAB0477B-9FD7-F848-E2A8-F996876C5DC164625-123072420-BMPPWLHy%2FNzw%2F6rgNmQ1Vw%3D%3D; b_lsid=49F4FD11_18987F4075E; _uuid=35510F8A5-6FA1-7DD4-42EE-E247C1510C9C264177infoc; buvid_fp=cdb318ad22447acaf7c7d8bfb995eea5; b_nut=100; SESSDATA=83af1086%2C1705755123%2C1a8d4%2A714_GBpENXsFJeiCAab7nQeuSmaxdOlbL6uUMkI9NIdkyDWvbAC6LopM4PJ53_JQLnt9jTbAAAMwA; bili_jct=cc537f79fb878204e08aea4aa7b2b518; DedeUserID=3493079390620451; DedeUserID__ckMd5=e924f28f793d249d; sid=fdfbxdis"
 			}
 		},
 		{
