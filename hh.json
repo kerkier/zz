@@ -76,7 +76,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"ext": "./json/aa.json$$$http://wogg.xyz/$$$null$$$1"
+			"ext": "./json/aa.json$$$http://wogg.xyz/$$$./json/wogg.json$$$1"
 		},
 		{
 			"key": "csp_Wobg",
