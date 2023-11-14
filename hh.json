@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/aa.jar;md5;1763478aaacda9aa36b7a5e0c8ff33c3",
+	"spider": "./jar/aa.jar;md5;23461d9553474037f5ca776274003c90",
 	"wallpaper": "https://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -170,6 +170,17 @@
 			"filterable": 1,
 			"changeable": 0,
 			"ext": "https://yundun-hdsign.zhuifeng100.cn$$$null$$$1"
+		},
+		{
+			"key": "哔嘀",
+			"name": "📣哔嘀┃直连",
+			"type": 3,
+			"api": "csp_Bdys01",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0,
+			"ext": "https://www.bdys03.com$$$null$$$1"
 		},
 		{
 			"key": "csp_Czsapp",
