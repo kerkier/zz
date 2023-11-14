@@ -941,6 +941,7 @@
 			"selectable": 0,
 			"filterable": 0,
 			"changeable": 0,
+			"recordable": 0,
 			"ext": "./json/aa.json"
 		},
 		{
