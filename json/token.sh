@@ -44,7 +44,7 @@ done
 #获取opentoken
 response=$(curl "https://open.aliyundrive.com/oauth/users/authorize?client_id=76917ccccd4441c39457a04f6084fb2f&redirect_uri=https://alist.nn.ci/tool/aliyundrive/callback&scope=user:base,file:all:read,file:all:write&state=" -X POST -H "User-Agent:$Header" -H "Content-Type:application/json" -H "Rererer:$Rererer" -H "Authorization:Bearer $access_token" -d '{"authorize":"1", "scope": "user:base,file:all:read,file:all:write"}')
 code=$(echo $response | sed -n 's/.*code=\([^"]*\).*/\1/p')
-response=$(curl "https://api.nn.ci/alist/ali_open/code" -X POST -H "User-Agent:$Header" -H "Content-Type:application/json" -H "Rererer:$Rererer" -H "Authorization:Bearer $access_token" -d '{"code":"'$code'", "grant_type":"authorization_code"}')
+response=$(curl "https://api.xhofe.top/alist/ali_open/code" -X POST -H "User-Agent:$Header" -H "Content-Type:application/json" -H "Rererer:$Rererer" -H "Authorization:Bearer $access_token" -d '{"code":"'$code'", "grant_type":"authorization_code"}')
 opentoken=$(echo $response | sed -n 's/.*"refresh_token":"\([^"]*\).*/\1/p')
 echo -n "{
 'token':'${new_token}',
@@ -54,7 +54,7 @@ echo -n "{
 'quark_flags':'auto|4k|4kz',
 'aliproxy':'',
 'proxy':'',
-'open_api_url':'https://api-cf.nn.ci/alist/ali_open/',
+'open_api_url':'https://api.xhofe.top/alist/ali_open/',
 'danmu':true,
 'quark_danmu':true,
 'quark_cookie':'__pus=94f8040955a91d7f805b96d482fe1a98AARsgP5rhPs5muEJHwphulmxYZL+Ci81Q9u1Jy0nNJyIhY3Gbd54XByI+UO/k9FJmieFhDSDGnnb/9AnKJBCQA7+'

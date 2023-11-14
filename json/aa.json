@@ -1,12 +1,12 @@
 {
-'token':'86de23fb586d4580b8b1ecd6c282a12c',
-'open_token':'',
+'token':'a5e0ec297df84c548cd4ce51d5f56b57',
+'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIyZmZiZDI4ZTg0NGQ0NjIwODZlNzkyZDFiYzUxMWNlNCIsImF1ZCI6Ijc2OTE3Y2NjY2Q0NDQxYzM5NDU3YTA0ZjYwODRmYjJmIiwiZXhwIjoxNzA3NzgxMTMxLCJpYXQiOjE3MDAwMDUxMzEsImp0aSI6ImU2NTcwODQ4ZjM0ZDRmODViMmI3Y2MzMzkyNWYxZTZhIn0.toGd6A4lgKpMUalxQ1oFnpKSOXpvA1JIMfBTsk03Ka3zUWhIoLOT_hWKOPfG_fbiQiWj6cGGwORAUAR4wjJPPA',
 'thread_limit':32,
 'vod_flags':'4kz|4k|auto',
 'quark_flags':'auto|4k|4kz',
 'aliproxy':'',
 'proxy':'',
-'open_api_url':'https://api-cf.nn.ci/alist/ali_open/',
+'open_api_url':'https://api.xhofe.top/alist/ali_open/',
 'danmu':true,
 'quark_danmu':true,
 'quark_cookie':'__pus=94f8040955a91d7f805b96d482fe1a98AARsgP5rhPs5muEJHwphulmxYZL+Ci81Q9u1Jy0nNJyIhY3Gbd54XByI+UO/k9FJmieFhDSDGnnb/9AnKJBCQA7+'
