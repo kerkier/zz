@@ -69,7 +69,7 @@
 		},
 		{
 			"key": "csp_Wogg",
-			"name": "👽玩偶哥哥(SP)┃云盘",
+			"name": "👽玩偶哥哥┃云盘",
 			"type": 3,
 			"api": "csp_Wogg",
 			"searchable": 1,
@@ -80,7 +80,7 @@
 		},
 		{
 			"key": "csp_Wobg",
-			"name": "🎭玩偶表哥(SP)┃云盘",
+			"name": "🎭玩偶表哥┃云盘",
 			"type": 3,
 			"api": "csp_Wobg",
 			"searchable": 1,
@@ -89,16 +89,6 @@
 			"changeable": 0,
 			"ext": "./json/aa.json$$$https://wobge.run.goorm.io/$$$1"
 		},
-		{
-			"key": "drpy_js_woggjs",
-			"name": "💀玩偶哥哥(JS)┃云盘",
-			"type": 3,
-			"api": "./js/wogg.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": "./json/bb.json"
-		},	
 		{
 			"key": "Hdhive",
 			"name": "🏺影巢┃云盘",
