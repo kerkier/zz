@@ -171,18 +171,6 @@
 			"ext": "./json/aa.json$$$https://ppxzy.net$$$null$$$1"
 		},
 		{
-			"key": "csp_Jianying",
-			"name": "✨简影┃直连",
-			"type": 3,
-			"api": "csp_Jianying",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;f6ce0ce7bd8b398540be062ebef7051d",
-			"ext": "kuau123@qq.com$$$aa123456"
-		},
-		{
 			"key": "蝴蝶",
 			"name": "🦋蝴蝶┃直连",
 			"type": 3,
