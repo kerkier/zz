@@ -1,6 +1,6 @@
 {
-'token':'294c8db2be404a6a81771a18ac2a852d',
-'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIyZmZiZDI4ZTg0NGQ0NjIwODZlNzkyZDFiYzUxMWNlNCIsImF1ZCI6Ijc2OTE3Y2NjY2Q0NDQxYzM5NDU3YTA0ZjYwODRmYjJmIiwiZXhwIjoxNzA3NzA0ODgxLCJpYXQiOjE2OTk5Mjg4ODEsImp0aSI6ImQxZDU0YjQ0YjVkYzQ3NWQ5NmM2ZmUwNjQyNTQxMzRkIn0.QWmJBS4lv-5bWCE13vCwLuaLx2ZJN05hdlZ-A5y919MzAW6MI58uqAR71UkB3G-mu03W9NMMo1Q6rppVr3GA5w',
+'token':'86de23fb586d4580b8b1ecd6c282a12c',
+'open_token':'',
 'thread_limit':32,
 'vod_flags':'4kz|4k|auto',
 'quark_flags':'auto|4k|4kz',
