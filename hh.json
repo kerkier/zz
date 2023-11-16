@@ -411,7 +411,7 @@
 			"key": "觅视频",
 			"name": "🗽觅视频┃App",
 			"type": 3,
-			"api": "csp_AppSk",
+			"api": "csp_AppSK",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
