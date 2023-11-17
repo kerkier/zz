@@ -79,6 +79,17 @@
 			"ext": "./json/aa.json$$$http://wogg.xyz/$$$null$$$1"
 		},
 		{
+			"key": "csp_Wogg",
+			"name": "💀玩偶堂哥┃云盘",
+			"type": 3,
+			"api": "./js/wogg.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0,
+			"ext": "./json/bb.json"
+		},
+		{
 			"key": "csp_Wobg",
 			"name": "🎭玩偶表哥┃云盘",
 			"type": 3,
