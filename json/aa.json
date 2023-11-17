@@ -1,6 +1,6 @@
 {
 'token':'f1da81877c9f45c9908571fce1040bc5',
-'open_token':'',
+'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzNzUyNzBlODQwYzY0ODYzYjYyNzZlZDdkYzZmNDg0MCIsImF1ZCI6Ijc2OTE3Y2NjY2Q0NDQxYzM5NDU3YTA0ZjYwODRmYjJmIiwiZXhwIjoxNzA4MDEyOTA1LCJpYXQiOjE3MDAyMzY5MDUsImp0aSI6IjlkNjdjZGI3YzA0ZjQ5NTU4ZDk1ZDFkZDBjZDg4MDAxIn0.ekIu_c8WO4gjlTerfIprncKvUs79jY8kV0pfgonDy1eVYTjuUjA7Q-3qOnbBkFhcsp1UM5HVAY2xu2pNpXeV0w',
 'thread_limit':32,
 'vod_flags':'4kz|4k|auto',
 'quark_flags':'auto|4k|4kz',
