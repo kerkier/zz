@@ -1,12 +1,13 @@
 {
-'token':'b0c1964c63b947e385eb8167bd6bb610',
-'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzNzUyNzBlODQwYzY0ODYzYjYyNzZlZDdkYzZmNDg0MCIsImF1ZCI6Ijc2OTE3Y2NjY2Q0NDQxYzM5NDU3YTA0ZjYwODRmYjJmIiwiZXhwIjoxNzA4MjY1MDYzLCJpYXQiOjE3MDA0ODkwNjMsImp0aSI6IjQxMzBkYzFiYzkyOTQ4M2NhMTQ5MzJkOTFiNzA1ODAzIn0.gxqRd2CD0y5VfFBf6zOgndbu1eRMgn15uu5DaXRymqVUgmBZ_J16BK3edfikuGLIwtYLE3CQqqbTRhEYOMdNLA',
+'token':'eb175c1567124904bea4fb40eeafd79d',
+'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIzNzUyNzBlODQwYzY0ODYzYjYyNzZlZDdkYzZmNDg0MCIsImF1ZCI6Ijc2OTE3Y2NjY2Q0NDQxYzM5NDU3YTA0ZjYwODRmYjJmIiwiZXhwIjoxNzA4Mjc1NDE5LCJpYXQiOjE3MDA0OTk0MTksImp0aSI6IjI4MDRkZDYxMGM0ZDQwZjY4MTI5NzE5ZmRmOWZmZGJjIn0.Eh5LTunJqCHBYH1M1hP-Fcb56tjTZGNp02H3ldm3tKdrwciJgD3LFz50TRE_hvCQ4btRn5pWV_VdKNwc1GuynQ',
 'thread_limit':32,
 'vod_flags':'4kz|4k|auto',
 'quark_flags':'auto|4k|4kz',
 'aliproxy':'',
 'proxy':'',
 'open_api_url':'https://api.xhofe.top/alist/ali_open/',
+'is_ali_vip':'false',
 'danmu':true,
 'quark_danmu':true,
 'quark_cookie':'__pus=94f8040955a91d7f805b96d482fe1a98AARsgP5rhPs5muEJHwphulmxYZL+Ci81Q9u1Jy0nNJyIhY3Gbd54XByI+UO/k9FJmieFhDSDGnnb/9AnKJBCQA7+'
