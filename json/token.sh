@@ -58,6 +58,7 @@ echo -n "{
 'is_ali_vip':'false',
 'danmu':true,
 'quark_danmu':true,
+'disable_internal_danmu':false,
 'quark_cookie':'__pus=94f8040955a91d7f805b96d482fe1a98AARsgP5rhPs5muEJHwphulmxYZL+Ci81Q9u1Jy0nNJyIhY3Gbd54XByI+UO/k9FJmieFhDSDGnnb/9AnKJBCQA7+'
 }
 ">$CURRENT_DIR/aa.json
