@@ -79,8 +79,8 @@
 			"ext": "./json/aa.json$$$http://wogg.xyz/$$$null$$$1"
 		},
 		{
-			"key": "Woqg",
-			"name": "☠️玩偶亲哥┃云盘",
+			"key": "Wotg",
+			"name": "💀玩偶堂哥┃云盘",
 			"type": 3,
 			"api": "csp_WoGG",
 			"searchable": 1,
@@ -89,17 +89,6 @@
 			"changeable": 0,
 			"jar": "./jar/hh.jar;md5;364c0f012e73a8801a69900fc25ae9c1",
 			"ext": "./json/bb.json+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
-		},
-		{
-			"key": "Wotg",
-			"name": "💀玩偶堂哥┃云盘",
-			"type": 3,
-			"api": "./js/wogg.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 0,
-			"ext": "./json/bb.json"
 		},
 		{
 			"key": "Wobg",
@@ -111,17 +100,6 @@
 			"filterable": 1,
 			"changeable": 0,
 			"ext": "./json/aa.json$$$https://wobge.run.goorm.io/$$$1"
-		},
-		{
-			"key": "funletu",
-			"name": "😲趣盘搜┃云盘",
-			"type": 3,
-			"api": "./js/funletu.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 0,
-			"ext": "__pus=94f8040955a91d7f805b96d482fe1a98AARsgP5rhPs5muEJHwphulmxYZL+Ci81Q9u1Jy0nNJyIhY3Gbd54XByI+UO/k9FJmieFhDSDGnnb/9AnKJBCQA7+"
 		},
 		{
 			"key": "Hdhive",
@@ -224,7 +202,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 1,
 			"jar": "./jar/hh.jar;md5;364c0f012e73a8801a69900fc25ae9c1",
 			"ext": "https://www.czzy88.com/"
 		},
