@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/aa.jar;md5;3997ab53e363ac966fbfdb5df1e96b28",
+	"spider": "./jar/aa.jar;md5;2f50451404dcc7e07f99c7aff21028a8",
 	"wallpaper": "https://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -75,7 +75,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 1,
 			"ext": "./json/aa.json$$$http://wogg.xyz/$$$null$$$1"
 		},
 		{
