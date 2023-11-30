@@ -50,6 +50,7 @@ echo -n "{
 'token':'${new_token}',
 'open_token':'${opentoken}',
 'thread_limit':32,
+'quark_thread_limit':10,
 'vod_flags':'4kz|4k|auto',
 'quark_flags':'auto|4k|4kz',
 'aliproxy':'',

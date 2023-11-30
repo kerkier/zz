@@ -2,6 +2,7 @@
 'token':'dd5b7b5027404724a4aa0d548ba94245',
 'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlOTE0YWYwNzBmZDg0N2Q5ODZlZTRiYmE5MGY5ZDM1MCIsImF1ZCI6Ijc2OTE3Y2NjY2Q0NDQxYzM5NDU3YTA0ZjYwODRmYjJmIiwiZXhwIjoxNzA5MDUwMzg2LCJpYXQiOjE3MDEyNzQzODYsImp0aSI6IjViOWU5MjhjYjdmMjQ1MmQ5NWM5ZmY1ZWZiMWU0YzU5In0.c6FJ2O5-0fNYknZf4bsDwtPeyQLy3gLmxvvhj3mzGsfTv-GTTPcsPdan8phyE2v2U442A8c9wQEcddFvnyr7sw',
 'thread_limit':32,
+'quark_thread_limit':10,
 'vod_flags':'4kz|4k|auto',
 'quark_flags':'auto|4k|4kz',
 'aliproxy':'',
