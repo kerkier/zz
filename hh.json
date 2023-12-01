@@ -1341,6 +1341,36 @@
 			"changeable": 0,
 			"ext": "./xp/yingba.json"
 		},
+		{
+			"key": "csp_JavDb",
+			"name": "🥬JavDb┃磁力",
+			"type": 3,
+			"api": "csp_JavDb",
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 1,
+			"changeable": 0,
+			"timeout":60
+		},
+		{
+			"key": "csp_JavBus",
+			"name": "🚌JavBus┃磁力",
+			"type": 3,
+			"api": "csp_JavBus",
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 1,
+			"changeable": 0,
+			"timeout":60
+		},
 		{"key":"应用商店","name":"🏙️应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./json/market.json","style":{"type":"rect","ratio":1}}
 	],
 	"parses": [
