@@ -1,6 +1,6 @@
 {
-'token':'d244a99384724f6b9fefbfcec89611f0',
-'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlOTE0YWYwNzBmZDg0N2Q5ODZlZTRiYmE5MGY5ZDM1MCIsImF1ZCI6Ijc2OTE3Y2NjY2Q0NDQxYzM5NDU3YTA0ZjYwODRmYjJmIiwiZXhwIjoxNzA5MjY2MDkxLCJpYXQiOjE3MDE0OTAwOTEsImp0aSI6ImYyNmMyZGNlZDc4NDQ2Mzg5NGJjZTZmMjQ2ZDBiM2YzIn0.VYqQFUO3OEZGAn9OTInoWzSKKOLXkE0qhNHQnBiJeQjI0vsydJIa9W9K2dS_r4-wSfRgUn-Iavwtf8p5vxkQvw',
+'token':'42a51eba3524423ebfb305cf0ef82d09',
+'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlOTE0YWYwNzBmZDg0N2Q5ODZlZTRiYmE5MGY5ZDM1MCIsImF1ZCI6Ijc2OTE3Y2NjY2Q0NDQxYzM5NDU3YTA0ZjYwODRmYjJmIiwiZXhwIjoxNzA5MjY3MTQ3LCJpYXQiOjE3MDE0OTExNDcsImp0aSI6IjkzNTY1MzlkOWJmNzRjZGQ4YzE3MTRhMGZiODgzMGUxIn0.s_BNJ3rthpT11Mz3dZhygfQbf6voe2YraJKyMy1H6OZja8RJJ1HjNH4dQvr7-KjFpBkh6stmoNQ0CmEp4HNKrA',
 'thread_limit':32,
 'quark_thread_limit':10,
 'vod_flags':'4kz|4k|auto',
@@ -8,7 +8,8 @@
 'aliproxy':'',
 'proxy':'',
 'open_api_url':'https://api.xhofe.top/alist/ali_open/',
-'is_ali_vip':'false',
+'is_vip':'false',
+'quark_is_vip':'false',
 'danmu':true,
 'quark_danmu':true,
 'disable_internal_danmu':false,
