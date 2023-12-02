@@ -953,6 +953,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"changeable": 0,
+			"timeout": 60,
 			"ext": "./json/aa.json$$$null$$$1"
 		},
 		{
@@ -965,6 +966,7 @@
 			"selectable": 0,
 			"filterable": 0,
 			"changeable": 0,
+			"timeout": 60,
 			"ext": "./json/aa.json$$$satoken=755e8a90-5deb-4970-95f4-fae222ea1b52$$$1"
 		},
 		{
@@ -977,6 +979,7 @@
 			"selectable": 0,
 			"filterable": 0,
 			"changeable": 0,
+			"timeout": 60,
 			"ext": "./json/aa.json$$$guub123$$$aa123456$$$1"
 		},
 		{
@@ -989,6 +992,7 @@
 			"selectable": 0,
 			"filterable": 0,
 			"changeable": 0,
+			"timeout": 60,
 			"ext": "./json/aa.json$$$null$$$1"
 		},
 		{
@@ -1000,6 +1004,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"changeable": 0,
+			"timeout": 60,
 			"ext": "./json/aa.json$$$null$$$1"
 		},
 		{
@@ -1011,6 +1016,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"changeable": 0,
+			"timeout": 60,
 			"ext": "./json/aa.json$$$null$$$1"
 		},
 		{
@@ -1022,6 +1028,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
+			"timeout": 60,
 			"ext": "./json/aa.json$$$null$$$1"
 		},
 		{
@@ -1035,6 +1042,7 @@
 			"filterable": 0,
 			"changeable": 0,
 			"recordable": 0,
+			"timeout": 60,
 			"ext": "./json/aa.json"
 		},
 		{
