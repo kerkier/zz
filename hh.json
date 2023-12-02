@@ -1629,12 +1629,6 @@
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
-			"name": "晴天",
-			"type": 0,
-			"url": "./晴天.txt",
-			"playerType": 1
-		},
-		{
 			"name": "IPV6",
 			"type": 0,
 			"url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
