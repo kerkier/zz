@@ -1632,8 +1632,7 @@
 			"name": "晴天",
 			"type": 0,
 			"url": "./晴天.txt",
-			"playerType": 1,
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+			"playerType": 1
 		},
 		{
 			"name": "IPV6",
