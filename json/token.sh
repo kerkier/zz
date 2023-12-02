@@ -48,7 +48,7 @@ response=$(curl "https://api.xhofe.top/alist/ali_open/code" -X POST -H "User-Age
 opentoken=$(echo $response | sed -n 's/.*"refresh_token":"\([^"]*\).*/\1/p')
 echo -n "{
 'token':'${new_token}',
-'open_token':'${opentoken}',
+'open_token':'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJlOTE0YWYwNzBmZDg0N2Q5ODZlZTRiYmE5MGY5ZDM1MCIsImN1c3RvbUpzb24iOiJ7XCJjbGllbnRJZFwiOlwicEpaSW5OSE4yZFpXazhxZ1wiLFwiZG9tYWluSWRcIjpcImJqMjlcIixcInNjb3BlXCI6W1wiRFJJVkUuQUxMXCIsXCJGSUxFLkFMTFwiLFwiVklFVy5BTExcIixcIlNIQVJFLkFMTFwiLFwiU1RPUkFHRS5BTExcIixcIlNUT1JBR0VGSUxFLkxJU1RcIixcIlVTRVIuQUxMXCIsXCJCQVRDSFwiLFwiQUNDT1VOVC5BTExcIixcIklNQUdFLkFMTFwiLFwiSU5WSVRFLkFMTFwiLFwiU1lOQ01BUFBJTkcuTElTVFwiXSxcInJvbGVcIjpcInVzZXJcIixcInJlZlwiOlwiXCIsXCJkZXZpY2VfaWRcIjpcIjJjYWM1ZWU2ZDVkZjRjMTFiODJhMDdlYTEyNWViNWYyXCJ9IiwiZXhwIjoxNzAxNTQwMjY0LCJpYXQiOjE3MDE1MzMwMDR9.tI8iwx7cNSH4387kd7VSkKmrM3XzM_cLt3Ak6fCt8UKqyre-1jtOpKWrxZLor1aVafiGlQxQZW3Y44w0g1-hU9YAvT8ykFMb3AXtlXWPGRK0AUjf3j5KPDtdqStgTxwAUqVbrKGcC8-ecbIWSZU6-bqXlJc1-3szCnhxEFs9584',
 'thread_limit':32,
 'quark_thread_limit':10,
 'vod_flags':'4kz|4k|auto',
