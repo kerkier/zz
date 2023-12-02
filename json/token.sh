@@ -56,7 +56,7 @@ echo -n "{
 'aliproxy':'',
 'proxy':'',
 'open_api_url':'https://api.xhofe.top/alist/ali_open/',
-'is_vip':'false',
+'is_vip':'true',
 'quark_is_vip':'false',
 'danmu':true,
 'quark_danmu':true,
