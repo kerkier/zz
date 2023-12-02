@@ -76,6 +76,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 1,
+			"timeout": 60,
 			"ext": "./json/aa.json$$$http://wogg.xyz/$$$null$$$1"
 		},
 		{
@@ -87,6 +88,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
+			"timeout": 60,
 			"jar": "./jar/hh.jar;md5;ea2690fc66083afe1431071968e60395",
 			"ext": "./json/bb.json+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
 		},
@@ -110,6 +112,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
+			"timeout": 60,
 			"ext": "./json/aa.json$$$https://wobge.run.goorm.io/$$$1"
 		},
 		{
@@ -121,6 +124,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
+			"timeout": 60,
 			"ext": "./json/aa.json$$$null$$$1"
 		},
 		{
