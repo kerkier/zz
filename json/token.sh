@@ -48,7 +48,7 @@ response=$(curl "https://api.xhofe.top/alist/ali_open/code" -X POST -H "User-Age
 opentoken=$(echo $response | sed -n 's/.*"refresh_token":"\([^"]*\).*/\1/p')
 echo -n "{
 'token':'${new_token}',
-'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlOTE0YWYwNzBmZDg0N2Q5ODZlZTRiYmE5MGY5ZDM1MCIsImF1ZCI6Ijc2OTE3Y2NjY2Q0NDQxYzM5NDU3YTA0ZjYwODRmYjJmIiwiZXhwIjoxNzA5MzExNjc1LCJpYXQiOjE3MDE1MzU2NzUsImp0aSI6IjZiYmI3YmFlMDAwYTQ0NGFhYWU4MzE4MWU2ZmE2MTU4In0.DyGdGd-EUWx6vkYDSmQD0wDpBNEoSUC0US31h6mR9JZXhwIzYOnblMVl0fzoH0qDiOZRebSZa_HHQ3suMdHBaA',
+'open_token':'${opentoken}',
 'thread_limit':32,
 'quark_thread_limit':10,
 'vod_flags':'4kz|4k|auto',
