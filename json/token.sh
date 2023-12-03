@@ -48,14 +48,14 @@ response=$(curl "https://api.xhofe.top/alist/ali_open/code" -X POST -H "User-Age
 opentoken=$(echo $response | sed -n 's/.*"refresh_token":"\([^"]*\).*/\1/p')
 echo -n "{
 'token':'${new_token}',
-'open_token':'${opentoken}',
+'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlOTE0YWYwNzBmZDg0N2Q5ODZlZTRiYmE5MGY5ZDM1MCIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzA5MzkyNjQ5LCJpYXQiOjE3MDE2MTY2NDksImp0aSI6ImFlMzUwNzAxYjM3MTQ1MDBhNTJmZmM2MTUzZmNmODYyIn0.aWEhjd41hsjlcrIEt6onaLJCMBXLezS6QiI1ScOJaxEIjrC4QEiLY5SKJQwsMbA5YFCObvFxN7zXV9rtkXBbnw',
 'thread_limit':32,
 'quark_thread_limit':10,
 'vod_flags':'4kz|4k|auto',
 'quark_flags':'auto|4k|4kz',
 'aliproxy':'',
 'proxy':'',
-'open_api_url':'https://api.xhofe.top/alist/ali_open/token',
+'open_api_url':'https://aliyundrive-oauth.messense.me/oauth/access_token',
 'is_vip':'true',
 'quark_is_vip':'false',
 'danmu':'true',
