@@ -55,7 +55,7 @@ echo -n "{
 'quark_flags':'auto|4k|4kz',
 'aliproxy':'',
 'proxy':'',
-'open_api_url':'https://api.xhofe.top/alist/ali_open/',
+'open_api_url':'https://api.xhofe.top/alist/ali_open/token',
 'is_vip':'true',
 'quark_is_vip':'false',
 'danmu':'true',
