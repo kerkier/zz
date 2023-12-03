@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;0ec07f0332deb5bf9d52c91314213dfc",
+	"spider": "./jar/pg.jar;md5;e448083625e8c9048cb72c053925e0a0",
 	"wallpaper": "https://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -1383,7 +1383,31 @@
 			"changeable": 0,
 			"timeout":60
 		},
-		{"key":"应用商店","name":"🏙️应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./json/market.json","style":{"type":"rect","ratio":1}}
+		{
+			"key": "配置中心",
+			"name": "🔧配置中心",
+			"type": 3,
+			"api": "csp_Config",
+			"style": {
+				"type": "rect",
+				"ratio": 1
+			},
+			"searchable": 0,
+			"changeable": 0
+		},
+		{
+			"key": "应用商店",
+			"name": "🏙️应用商店",
+			"type": 3,
+			"api": "csp_Market",
+			"style": {
+				"type": "rect",
+				"ratio": 1
+			},
+			"searchable": 0,
+			"changeable": 0,
+			"ext":"./json/market.json"
+		}
 	],
 	"parses": [
 
