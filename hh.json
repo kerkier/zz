@@ -1403,7 +1403,8 @@
 				"ratio": 1
 			},
 			"searchable": 0,
-			"changeable": 0
+			"changeable": 0,
+			"ext": "./json/aa.json"
 		},
 		{
 			"key": "应用商店",
