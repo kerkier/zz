@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;1526e714b8aa101dcd78060548871e24",
+	"spider": "./jar/pg.jar;md5;02e859d0524a5bf5cd65db9f45e80498",
 	"wallpaper": "https://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -55,6 +55,16 @@
 			"api": "./js/lib/drpy2.min.js",
 			"changeable": 0,
 			"ext": "./js/短剧网.js"
+		},
+		{
+			"key": "短剧",
+			"name": "🩳短剧┃直连",
+			"type": 3,
+			"api": "csp_Duanju",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0
 		},
 		{
 			"key": "csp_Alist",
@@ -218,7 +228,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"ext": "https://czz9.com/"
+			"ext": "https://cz01.tv/"
 		},
 		{
 			"key": "csp_77",
