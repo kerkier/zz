@@ -1178,17 +1178,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0
-		},
-		{
-			"key": "drpy_js_美剧迷",
-			"name": "🇺🇸美剧迷┃磁力",
-			"type": 3,
-			"api": "./js/lib/drpy2.min.js",
-			"ext": "./js/meijumi.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0
-		},
+		},	
 		{
 			"key": "drpy_js_酷吧",
 			"name": "🆒酷吧┃磁力",
@@ -1232,17 +1222,6 @@
 			"filterable": 1,
 			"changeable": 0,
 			"ext": "https://www.kuin.one/api.php/app/"
-		},
-		{
-			"key": "csp_xp_dmw",
-			"name": "🚢动漫岛┃动漫",
-			"type": 3,
-			"api": "csp_XPathMacFilter",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 0,
-			"ext": "./xp/dmw.json"
 		},
 		{
 			"key": "csp_xp_yingba",
