@@ -1,5 +1,5 @@
 {
-'token':'2725a379433f4b15893cbcdefadee6b3',
+'token':'d87eeda19f444112b1b8bc1ab39a3983',
 'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlOTE0YWYwNzBmZDg0N2Q5ODZlZTRiYmE5MGY5ZDM1MCIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzA5MzkyNjQ5LCJpYXQiOjE3MDE2MTY2NDksImp0aSI6ImFlMzUwNzAxYjM3MTQ1MDBhNTJmZmM2MTUzZmNmODYyIn0.aWEhjd41hsjlcrIEt6onaLJCMBXLezS6QiI1ScOJaxEIjrC4QEiLY5SKJQwsMbA5YFCObvFxN7zXV9rtkXBbnw',
 'thread_limit':32,
 'quark_thread_limit':10,
@@ -7,7 +7,7 @@
 'quark_flags':'auto|4k|4kz',
 'aliproxy':'',
 'proxy':'',
-'open_api_url':'https://aliyundrive-oauth.messense.me/oauth/access_token',
+'open_api_url':'https://aliyundrive-oauth.messense.me/oauth/access_token/',
 'is_vip':true,
 'quark_is_vip':false,
 'danmu':true,
