@@ -29,7 +29,7 @@ echo -n "{
 'quark_flags':'auto|4k|4kz',
 'aliproxy':'',
 'proxy':'',
-'open_api_url':'https://aliyundrive-oauth.messense.me/oauth/access_token/',
+'open_api_url':'https://aliyundrive-oauth.messense.me/oauth/access_token',
 'is_vip':true,
 'quark_is_vip':false,
 'danmu':true,
