@@ -1073,24 +1073,6 @@
 			"changeable": 0
 		},
 		{
-			"key": "BLSGod",
-			"name": "8️⃣80S┃磁力",
-			"type": 3,
-			"api": "csp_BLSGod",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0
-		},
-		{
-			"key": "Xunlei8",
-			"name": "🐦迅雷吧┃磁力",
-			"type": 3,
-			"api": "csp_Xunlei8",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0
-		},
-		{
 			"key": "MeijuTT",
 			"name": "🌫️美剧天天┃磁力",
 			"type": 3,
