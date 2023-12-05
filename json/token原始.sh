@@ -20,23 +20,6 @@ if [ -z "$new_token" ]; then
 	exit 1
 fi
 echo -n ${new_token} >$CURRENT_DIR/bb.json
-echo -n "{
-'token':'${new_token}',
-'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlOTE0YWYwNzBmZDg0N2Q5ODZlZTRiYmE5MGY5ZDM1MCIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzA5MzkyNjQ5LCJpYXQiOjE3MDE2MTY2NDksImp0aSI6ImFlMzUwNzAxYjM3MTQ1MDBhNTJmZmM2MTUzZmNmODYyIn0.aWEhjd41hsjlcrIEt6onaLJCMBXLezS6QiI1ScOJaxEIjrC4QEiLY5SKJQwsMbA5YFCObvFxN7zXV9rtkXBbnw',
-'thread_limit':32,
-'quark_thread_limit':10,
-'vod_flags':'4kz|4k|auto',
-'quark_flags':'auto|4k|4kz',
-'aliproxy':'',
-'proxy':'',
-'open_api_url':'https://aliyundrive-oauth.messense.me/oauth/access_token',
-'is_vip':true,
-'quark_is_vip':false,
-'danmu':true,
-'quark_danmu':true,
-'quark_cookie':'__pus=94f8040955a91d7f805b96d482fe1a98AARsgP5rhPs5muEJHwphulmxYZL+Ci81Q9u1Jy0nNJyIhY3Gbd54XByI+UO/k9FJmieFhDSDGnnb/9AnKJBCQA7+'
-}
-">$CURRENT_DIR/aa.json
 
 #签到
 response=$(curl "https://member.aliyundrive.com/v1/activity/sign_in_list" -X POST -H "User-Agent:$Header" -H "Content-Type:application/json" -H "Authorization:Bearer $access_token" -d '{"grant_type":"refresh_token", "refresh_token":"'$new_token'"}')
@@ -58,7 +41,28 @@ for day in $signday; do
 	col=$((col + 1))
 done
 
-
+#获取opentoken
+response=$(curl "https://open.aliyundrive.com/oauth/users/authorize?client_id=76917ccccd4441c39457a04f6084fb2f&redirect_uri=https://alist.nn.ci/tool/aliyundrive/callback&scope=user:base,file:all:read,file:all:write&state=" -X POST -H "User-Agent:$Header" -H "Content-Type:application/json" -H "Rererer:$Rererer" -H "Authorization:Bearer $access_token" -d '{"authorize":"1", "scope": "user:base,file:all:read,file:all:write"}')
+code=$(echo $response | sed -n 's/.*code=\([^"]*\).*/\1/p')
+response=$(curl "https://api.xhofe.top/alist/ali_open/code" -X POST -H "User-Agent:$Header" -H "Content-Type:application/json" -H "Rererer:$Rererer" -H "Authorization:Bearer $access_token" -d '{"code":"'$code'", "grant_type":"authorization_code"}')
+opentoken=$(echo $response | sed -n 's/.*"refresh_token":"\([^"]*\).*/\1/p')
+echo -n "{
+'token':'${new_token}',
+'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlOTE0YWYwNzBmZDg0N2Q5ODZlZTRiYmE5MGY5ZDM1MCIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzA5MzkyNjQ5LCJpYXQiOjE3MDE2MTY2NDksImp0aSI6ImFlMzUwNzAxYjM3MTQ1MDBhNTJmZmM2MTUzZmNmODYyIn0.aWEhjd41hsjlcrIEt6onaLJCMBXLezS6QiI1ScOJaxEIjrC4QEiLY5SKJQwsMbA5YFCObvFxN7zXV9rtkXBbnw',
+'thread_limit':32,
+'quark_thread_limit':10,
+'vod_flags':'4kz|4k|auto',
+'quark_flags':'auto|4k|4kz',
+'aliproxy':'',
+'proxy':'',
+'open_api_url':'https://aliyundrive-oauth.messense.me/oauth/access_token',
+'is_vip':true,
+'quark_is_vip':false,
+'danmu':true,
+'quark_danmu':true,
+'quark_cookie':'__pus=94f8040955a91d7f805b96d482fe1a98AARsgP5rhPs5muEJHwphulmxYZL+Ci81Q9u1Jy0nNJyIhY3Gbd54XByI+UO/k9FJmieFhDSDGnnb/9AnKJBCQA7+'
+}
+">$CURRENT_DIR/aa.json
 
 #删除文件
 delete_File() {
