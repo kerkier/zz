@@ -324,7 +324,7 @@
 		},
 		{
             "key": "超神",
-            "name": "⛩️超神┃App",
+            "name": "⚛️超神┃App",
             "type": 3,
             "api": "csp_Appto",
             "searchable": 1,
@@ -363,17 +363,6 @@
 			"changeable": 0,
 			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2",
 			"ext": "FbjPcVZY48PN/RIZ5UWFroB7MoZYCIIND24O/vn7yU9QR8yI8HjexlGPt+etACSwf3iKwX4rh3ktWiMrCNspYRZYUM6f0R/eKT9M0yoRk6EyAfugfXYhIgLgMSg228vn5DHAeJF8GNUkrF4Jo1n0FBoWeKCl6EsVIZQYaGAULAyk6bAVvvsMCfF8OLsUag5VCEcq1wRjY0Cw+SFg/kgZlsg0iqGp2BFbJ2kHwtc1"
-		},
-		{
-			"key": "极光",
-			"name": "☀极光┃App",
-			"type": 3,
-			"api": "csp_AppSK",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2",
-			"ext": "FbjPcVZY48PN/RIZ5UWFrphicspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2BrULz5M1CsK3w=="
 		},
 		{
 			"key": "皮皮虾",
@@ -1004,26 +993,6 @@
 			"changeable": 0
 		},	
 		{
-			"key": "drpy_js_kk",
-			"name": "🕋KK盘┃云盘",
-			"type": 3,
-			"api": "./js/lib/drpy2.min.js",
-			"ext": "./js/kkpans.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0
-		},
-		{
-			"key": "drpy_js_dydhhy",
-			"name": "🪩DYD┃云磁",
-			"type": 3,
-			"api": "./js/lib/drpy2.min.js",
-			"ext": "./js/dydhhy.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0
-		},
-		/*{
 			"key": "drpy_js_97tvs",
 			"name": "9️⃣97TV┃云盘",
 			"type": 3,
@@ -1032,23 +1001,13 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0
-		},*/
+		},
 		{
 			"key": "drpy_js_rrdyw",
 			"name": "🔁RRDV┃云盘",
 			"type": 3,
 			"api": "./js/lib/drpy2.min.js",
 			"ext": "./js/rrdyw.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0
-		},
-		{
-			"key": "drpy_js_libvio",
-			"name": "🧪Libvio┃云盘",
-			"type": 3,
-			"api": "./js/lib/drpy2.min.js",
-			"ext": "./js/libvio.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0
@@ -1064,11 +1023,11 @@
 			"changeable": 0
 		},
 		{
-			"key": "drpy_js_yyets",
-			"name": "🕴️人人┃云搜",
+			"key": "drpy_js_kk",
+			"name": "🕋KK盘┃云搜",
 			"type": 3,
 			"api": "./js/lib/drpy2.min.js",
-			"ext": "./js/yyets.js",
+			"ext": "./js/kkpans.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0
@@ -1122,7 +1081,7 @@
 			"quickSearch": 1,
 			"changeable": 0
 		},
-		/*{
+		{
 			"key": "Xunlei8",
 			"name": "🐦迅雷吧┃磁力",
 			"type": 3,
@@ -1130,7 +1089,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0
-		},*/
+		},
 		{
 			"key": "MeijuTT",
 			"name": "🌫️美剧天天┃磁力",
@@ -1159,7 +1118,7 @@
 			"quickSearch": 1,
 			"changeable": 0
 		},
-		/*{
+		{
 			"key": "drpy_js_极影网",
 			"name": "🇦🇶极影网┃磁力",
 			"type": 3,
@@ -1168,7 +1127,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0
-		},*/
+		},
 		{
 			"key": "drpy_js_MP4电影",
 			"name": "📀MP4电影┃磁力",
