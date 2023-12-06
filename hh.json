@@ -103,6 +103,16 @@
 			"ext": "./json/bb.json+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
 		},
 		{
+			"key": "woqg",
+			"name": "☠️玩偶亲哥┃直连",
+			"type": 3,
+			"api": "./js/wogg_open.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0
+		},
+		{
 			"key": "Wobg",
 			"name": "🎭玩偶表哥┃云盘",
 			"type": 3,
