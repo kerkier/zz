@@ -209,6 +209,36 @@
 			"ext": "https://www.bdys03.com$$$null$$$1"
 		},
 		{
+			"key": "河马",
+			"name": "🦛河马┃直连",
+			"type": 3,
+			"api": "./js/hmsp_open.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "布雷",
+			"name": "🌩️布雷┃直连",
+			"type": 3,
+			"api": "./js/bulei_open.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "伊人",
+			"name": "🧜‍♀️伊人┃直连",
+			"type": 3,
+			"api": "./js/yrzj_open.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0
+		},
+		{
 			"key": "csp_Czsapp",
 			"name": "🧛厂长┃直连",
 			"type": 3,
