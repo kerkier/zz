@@ -22,7 +22,7 @@ fi
 echo -n ${new_token} >$CURRENT_DIR/bb.json
 echo -n "{
 'token':'${new_token}',
-'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlOTE0YWYwNzBmZDg0N2Q5ODZlZTRiYmE5MGY5ZDM1MCIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzA5NzMyMzIwLCJpYXQiOjE3MDE5NTYzMjAsImp0aSI6IjY2NDBkM2EyMzNhNDQ3NjlhMTIzNTAyNTA5ODQ1MzdmIn0.PnCli-ldMti8UaLsvGKrDKar6Cn4SIv3LaUJ6Y9dyDKw7637LJVPDXzElKJxnd6hjjcv9lse1QpESHm6siUFFg',
+'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlOTE0YWYwNzBmZDg0N2Q5ODZlZTRiYmE5MGY5ZDM1MCIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzA5NzY3MTM4LCJpYXQiOjE3MDE5OTExMzgsImp0aSI6IjkwNDdlZmFmMDU3NTQzYWFiZDBmZDQ2ZDJhNTRhYjJhIn0.Y53scoO8-Q-SNWtvIWE8qliP32ejENttb6z4CxZd_nZfaaeWyqEdqxlVzJo7JPdtCThfqUH1sMvmxYzkBNPhJw',
 'thread_limit':32,
 'quark_thread_limit':10,
 'vod_flags':'4kz|4k|auto',
