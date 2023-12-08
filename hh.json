@@ -28,7 +28,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2"
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b"
 		},
 		{
 			"key": "csp_Bili",
@@ -99,7 +99,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2",
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
 			"ext": "./json/bb.json+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
 		},
 		{
@@ -228,7 +228,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2"
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b"
 		},
 		{
 			"key": "南瓜",
@@ -241,6 +241,18 @@
 			"changeable": 0,
 			"timeout": 30,		
 			"ext": "null$$$1"
+		},
+		{
+			"key": "河马",
+			"name": "🦛河马┃App",
+			"type": 3,
+			"api": "csp_Hmys",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0,
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
+			"ext":"https://m.jmzp.net.cn"
 		},
 		{
 			"key": "极光",
@@ -334,34 +346,15 @@
             "ext": "Nm6kHImBI1jr6VSKVUPgJGCYkeKLb8Sjp1Na6UBEM2CRUW8htts45LDQ18nx0gqcjehIgtVhsgHjWqvE5T4+I0FJF8Po2QBCUA/bMHdMJAYWxbeI9soGqn8bxOflshBTNBewsn20MTbpMjfAHYAgWmyLvES09FVNl74D3aTsMwRMwoSaMx6GFjKJ9Gs4CSRyD4MFqbaHbG/jsYcBykyYtgCk9hH4IFFnWVntJ8PqEirD9OzzNKWf6cNhMOMPGF9W9dKqwzGGuh+jQ3BISOMBVcQO35PL1cmHmsmf1T41zzc505s4MoLmF6MwoXVXgNk1ni/OMZWLP59tPLgRoK9tMXm270YWMJplTWEJ3bE8TrHVkM1dJ5udmlatuz/XqqdZCspJGX/LhokZNMl2IbwD5bMufwIRRqLzwcOv9+nTjElseZEM7g5qz6kNrkmVQNOFQ1zXc487lNqYph053yEQB/gn9z3iXhd+hYdVA59LWe5Ev7oLbCJqG1joJBU7s+6dfJ0Kamgoo9t8nvZc7NakY5qku6O35mvlVmjmQkgMmIL+VDAESF97J1hPaOTY0w0Q5CMyqmdxac3t+YTwENOiLUT5U1VmZYOsYHA9XURhbqgNPojj23Xj9j32bfUMZDK8WPcltxOb3SmwQe0Y8ibIlqKc+YGY5xvze81NVv39kQsc=$$$null$$$1"
         },
 		{
-			"key": "涂成",
-			"name": "🏰涂成┃直连",
-			"type": 0,
-			"api": "http://www.sxys.top/aatucheng/api.php/provide/vod/at/xml",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0
-		},
-		{
-			"key": "小小",
-			"name": "🚅小小┃App",
+			"key": "蜂鸟",
+			"name": "🕊蜂鸟┃App",
 			"type": 3,
 			"api": "csp_AppSK",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2",
-			"ext": "FbjPcVZY48PN/RIZ5UWFrsgwaYYVSsIJD3UWs7i4yk1XUNSIsT3IgxCP9qyzByO7ZnqW3G0tjmslTGNlCJx9KFpYWdSQ0BTcKTlG3CAclaw3AOm0fS9oLx2taGFrzpf9uSKPPIBwToF3pEZBvQOlHhoMMOnm4EsAMpVefSVfagul7fFS8qxdQvcqdulXNwxSXwVqwgY9fgGounx/txZHh9k8mqD6nFJaZH0GwpEpXmVLgQ=="
-		},
-		{
-			"key": "蜂鸟",
-			"name": "🕊蜂鸟┃App",
-			"type": 3,
-			"api": "csp_Skapp",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": "jjwwi+dOQlgm4F27Hwbr6wbvLP2f8tNrNJLwb5mes451B6DyoE/XbePJMZllLi//C4FgkN7ZctlqsU7f5Te7G+/pRB6mOos6orWGwAA82BzZ/0IotbYnh/Qro2IFOw0ckNGJ/d3RZy1kN38aQV9mFFSq/2nrgk+Wxy528z2HfDsk/WCRTcYExPghH7zE3ucnlkB9ND/OK568/31pRTsUVvcNuwA/AzwoZMa6//pah3AXUwpuCSCrEUGVtcomyB5mWHiFmtniOtpR/NEAuw2Fo8WmHbomMvJGJjm/RhXmTRvqfh6j3tRoPgCJDSTI0HJwjD6fogFmUKqboldxelBFkew=="
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
+			"ext": "FbjPcVZY48PN/RIZ5QqOrspmMoZYCIIND24O/vn7yUhWQcuI8HjexlGPt+etACSwf3iKwX4rh3ktWiMrCNspYRZYUM6f0R/eKT9M0yoRk6EyAfugfXYhMxjmPGFi28eiv3OAOtR9Ttwk9kZJ6wehHhpaZOu66RhRYpVbfGEUahA="
 		},
 		{
 			"key": "皮皮虾",
@@ -371,7 +364,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2",
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
 			"ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZWG4dUVjwO4+rih1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
 		},
 		{
@@ -382,7 +375,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2",
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
 			"ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
 		},
 		{
@@ -393,19 +386,19 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2",
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
 			"ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
 		},
 		{
-			"key": "",
-			"name": "🗽觅视频┃App",
+			"key": "追影猫",
+			"name": "🗽追影猫┃App",
 			"type": 3,
-			"api": "csp_AppMao",
+			"api": "csp_AppSK",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2",
-			"ext": "FbjPcVZY48PN/RIZ5QqOrsp7KctTA8JSVjVJ8fb33R8KUNSIsT3IgxCP9qyzByO7Z2qR3Ggpjn8kS2NlCJx9KFpYWtqe0x/XKTtG3SAclaw3AOm0fT5yKRDkPGFi25mx+DXBMtV3UpEhsgBctFypT1hMdvW6txkGIdVcbXcULwu38vkbsKwSC/YwIKMAOQpRDkEq3wA4MUCwpidroBQbwc5j3aX/1xZdJGgHncNoUQ=="
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
+			"ext": "FbjPcVZY48PN/RIZ5QqOrsp7KctTA8JSVjVJ8fb33R8KUNSIsT3IgxCP9qyzByO7Z2qR3Ggpjn8kS2NlCJx9KFpYWtqe0x/XKTtG3SAclaw3AOm0fS9oLx2taGFszsP3uHWHa4dyHdIm90tKvADyREgKNL3k7R5QNMNVLiUM"
 		},
 		{
 			"key": "快影",
@@ -436,7 +429,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2",
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
 			"ext": "https://www.zxzj.pro"
 		},
 		{
@@ -448,7 +441,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2",
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
 			"ext": "https://www.maolvys.com/"
 		},
 		{
@@ -460,7 +453,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2",
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
 			"ext": "http://rzys.xyz"
 		},
 		{
@@ -472,7 +465,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2",
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
 			"ext": "https://haozhansou.com/"
 		},
 		{
@@ -494,7 +487,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2"
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b"
 		},
 		{
 			"key": "贱贱",
@@ -517,7 +510,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2",
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
 			"ext": "https://www.libvio.pro"
 		},
 		{
@@ -529,7 +522,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2"
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b"
 		},
 		{
 			"key": "csp_Nmys",
@@ -540,7 +533,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2",
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
 			"ext": "./json/nmys.json"
 		},
 		{
@@ -552,7 +545,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2",
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
 			"ext": "https://www.hdmyy.com/"
 		},
 		{
@@ -564,7 +557,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2"
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b"
 		},
 		{
 			"key": "csp_kuaikan",
@@ -607,7 +600,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2"
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b"
 		},
 		{
 			"key": "csp_Ying",
@@ -618,7 +611,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2"
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b"
 		},
 		{
 			"key": "csp_Ysj",
@@ -629,7 +622,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2"
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b"
 		},
 		{
 			"key": "csp_Anime1",
@@ -640,7 +633,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2"
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b"
 		},
 		{
 			"key": "csp_Yj1211",
@@ -651,7 +644,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2"
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b"
 		},
 		{
 			"key": "Aid",
@@ -665,7 +658,7 @@
 				"type": "rect",
 				"ratio": 3.8
 			},
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2"
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b"
 		},
 		{
 			"key": "88js",
@@ -974,7 +967,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2"
+			"jar": "./jar/hh.jar;md5;3021d0a39a4959c487437ccd2bdba75b"
 		},
 		{
 			"key": "dr_兔小贝",
@@ -1261,7 +1254,7 @@
 		{
             "name": "巧技",
             "type": 1,
-            "url": "https://www.qiaoji8.com/tvbox/wudi.php?url=",
+            "url": "https://www.qiaoji8.com/tvbox/neibu.php?url=",
             "ext": {
                 "flag": [
                     "qq",
