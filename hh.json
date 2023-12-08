@@ -357,12 +357,11 @@
 			"key": "蜂鸟",
 			"name": "🕊蜂鸟┃App",
 			"type": 3,
-			"api": "csp_AppSK",
+			"api": "csp_Skapp",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;be6121b5c37471b191114027123912d2",
-			"ext": "FbjPcVZY48PN/RIZ5UWFroB7MoZYCIIND24O/vn7yU9QR8yI8HjexlGPt+etACSwf3iKwX4rh3ktWiMrCNspYRZYUM6f0R/eKT9M0yoRk6EyAfugfXYhIgLgMSg228vn5DHAeJF8GNUkrF4Jo1n0FBoWeKCl6EsVIZQYaGAULAyk6bAVvvsMCfF8OLsUag5VCEcq1wRjY0Cw+SFg/kgZlsg0iqGp2BFbJ2kHwtc1"
+			"ext": "https://jihulab.com/qiaoji/open/-/raw/main/fengniao"
 		},
 		{
 			"key": "皮皮虾",
