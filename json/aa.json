@@ -1,6 +1,6 @@
 {
-'token':'66c7b0ad448b460584378c5582b64890',
-'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlOTE0YWYwNzBmZDg0N2Q5ODZlZTRiYmE5MGY5ZDM1MCIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzA5ODA3ODY2LCJpYXQiOjE3MDIwMzE4NjYsImp0aSI6Ijk4NmU4MGY3MjE5NzRmN2Q4ZmVhMTMzMzhjZWE0ZjkyIn0.q420dyi6gpvI5TL49rJYVWMuAyxBgH2SazK24q9qZ5wc12pivaR22uNq74ucs0E4pyj86ttlSw3IwwfrTIAS2g',
+'token':'c158f4c97576440c91674a7c44b3108e',
+'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlOTE0YWYwNzBmZDg0N2Q5ODZlZTRiYmE5MGY5ZDM1MCIsImF1ZCI6Ijc2OTE3Y2NjY2Q0NDQxYzM5NDU3YTA0ZjYwODRmYjJmIiwiZXhwIjoxNzA5OTU4NzgwLCJpYXQiOjE3MDIxODI3ODAsImp0aSI6ImE3MjdlMzUzMjM3MTRlM2ZhYWNmYjcwMmI0MDFkNDUxIn0.kf92nAlYKfI-RXhz5HsXJp7Nayr4AKZiSgQZEnLevXLZAw3ioR_K12SoCQgamWf8ozyJETWihe_38jSnYaryCA',
 'thread_limit':32,
 'vip_thread_limit':1,
 'quark_thread_limit':10,
@@ -9,7 +9,7 @@
 'quark_flags':'auto|4k|4kz',
 'aliproxy':'',
 'proxy':'',
-'open_api_url':'https://api.xhofe.top/alist/ali_open',
+'open_api_url':'https://aliyundrive-oauth.messense.me/oauth/access_token',
 'is_vip':true,
 'quark_is_vip':false,
 'danmu':true,
