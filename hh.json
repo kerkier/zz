@@ -90,19 +90,6 @@
 			"ext": "./json/aa.json$$$http://api.wogg.xyz/$$$null$$$1"
 		},
 		{
-			"key": "Wotg",
-			"name": "💀玩偶堂哥┃云盘",
-			"type": 3,
-			"api": "csp_WoGG",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 0,
-			"timeout": 60,
-			"jar": "./jar/hh.jar;md5;7f5b55c37dba231f3862cd1a8c8ea932",
-			"ext": "./json/bb.json+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
-		},
-		{
 			"key": "Wobg",
 			"name": "🎭玩偶表哥┃云盘",
 			"type": 3,
