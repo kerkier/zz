@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;a69e051145ca55b1ea7f8a436e31d6dc",
+	"spider": "./jar/pg.jar;md5;1d99562d6076ace2ca5c095a301d108f",
 	"wallpaper": "https://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -593,12 +593,12 @@
 			"key": "360",
 			"name": "🎞360┃解析",
 			"type": 3,
-			"api": "csp_Sp360",
+			"api": "csp_SP33",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"ext":{"danmu":true},
+			"jar": "./jar/hh.jar;md5;778bdff929e3ec4192bd3ffc116c5eb3",
 			"timeout":30
 		},	
 		{
