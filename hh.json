@@ -1467,7 +1467,13 @@
 			"name": "自用",
 			"type": 0,
 			"url": "./hh.txt",
-			"playerType": 1,
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "港澳台",
+			"type": 0,
+			"url": "http://www.stream-link.org/stream-link.m3u",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
@@ -1489,7 +1495,6 @@
 			"name": "饭太硬",
 			"type": 0,
 			"url": "https://xhdwc.tk/tvlive.txt",
-			"playerType": 1,
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
