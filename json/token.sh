@@ -28,7 +28,7 @@ echo -n "{
 'quark_thread_limit':10,
 'quark_vip_thread_limit':10,
 'vod_flags':'4kz|4k|auto',
-'quark_flags':'auto|4k|4kz',
+'quark_flags':'4k|4kz|auto',
 'aliproxy':'',
 'proxy':'',
 'open_api_url':'https://aliyundrive-oauth.messense.me/oauth/access_token',
