@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;2fa678d1241d54ad8d7e839ea593451b",
+	"spider": "./jar/pg.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4",
 	"wallpaper": "https://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -924,6 +924,18 @@
 			"ext": "./json/aa.json$$$null$$$1"
 		},
 		{
+			"key": "csp_Fenletu",
+			"name": "🥰趣盘搜┃云搜",
+			"type": 3,
+			"api": "csp_Fenletu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0,
+			"timeout": 60,
+			"ext": "./json/aa.json$$$null$$$1"
+		},	
+		{
 			"key": "push_agent",
 			"name": "🛴推送",
 			"type": 3,
@@ -1039,16 +1051,6 @@
 			"type": 3,
 			"api": "./js/lib/drpy2.min.js",
 			"ext": "./js/aipanso.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0
-		},
-		{
-			"key": "drpy_js_funletu",
-			"name": "🥰趣盘搜┃云搜",
-			"type": 3,
-			"api": "./js/lib/drpy2.min.js",
-			"ext": "./js/funletu.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0
