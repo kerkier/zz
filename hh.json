@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;009cb0dbd9950c9795adc9825c8b747f",
+	"spider": "./jar/pg.jar;md5;2fa678d1241d54ad8d7e839ea593451b",
 	"wallpaper": "https://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -904,6 +904,18 @@
 			"name": "🌙七夜┃云搜",
 			"type": 3,
 			"api": "csp_Dovx",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0,
+			"timeout": 60,
+			"ext": "./json/aa.json$$$null$$$1"
+		},
+		{
+			"key": "csp_QuarkPanso",
+			"name": "🔰夸克盘搜┃云搜",
+			"type": 3,
+			"api": "csp_QuarkPanso",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,

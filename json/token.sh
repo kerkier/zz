@@ -24,7 +24,7 @@ echo -n "{
 'token':'${new_token}',
 'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlOTE0YWYwNzBmZDg0N2Q5ODZlZTRiYmE5MGY5ZDM1MCIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzEwMjAyMTUyLCJpYXQiOjE3MDI0MjYxNTIsImp0aSI6ImU4YWNhM2I2ZTExOTQyOTI5NjI1N2JlZDNiMTc5YmJjIn0.fWervGi6azSemAYbskl0JrsgRhWB78OtjWO2d6pAs9iJxiatWII50G9VWbOK9Syx3gaZxxxy9LEyt-qd2VyzEQ',
 'thread_limit':32,
-'vip_thread_limit':1,
+'vip_thread_limit':0,
 'quark_thread_limit':10,
 'quark_vip_thread_limit':10,
 'vod_flags':'4kz|4k|auto',
