@@ -22,21 +22,26 @@ fi
 echo -n ${new_token} >$CURRENT_DIR/bb.json
 echo -n "{
 'token':'${new_token}',
-'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlOTE0YWYwNzBmZDg0N2Q5ODZlZTRiYmE5MGY5ZDM1MCIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzEwMjM5NTkxLCJpYXQiOjE3MDI0NjM1OTEsImp0aSI6ImIwNDk4MzUzZDQ2YjRjOTE5MjY2MGFlNmRiYmViNmVlIn0.NxI7NrQhmU_7mFZHjQ4oUQT2jlkt2bsgiGi3fVn17h4apn9aDqwN5ufTaHrEDqKvKyqfA2WQern1s6IDvBK-8Q',
+'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlOTE0YWYwNzBmZDg0N2Q5ODZlZTRiYmE5MGY5ZDM1MCIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzEwNDExNDY5LCJpYXQiOjE3MDI2MzU0NjksImp0aSI6IjE3YTE4MmYyZmQ0ZTRjMzZiY2QyMDQ5OWU2NjFiZDVlIn0.XwsCZp0s022fE9dB_MIRL_aCPWEAl_EQoURdFqP4GXt-WtGMcnMP3Q8FOzD4eJjG273yDrgslstanVyf6aa8OA',
 'thread_limit':32,
 'vip_thread_limit':1,
 'quark_thread_limit':10,
 'quark_vip_thread_limit':10,
+'uc_thread_limit':32,
+'uc_vip_thread_limit':1,
 'vod_flags':'4kz|4k|auto',
 'quark_flags':'4k|4kz|auto',
+'uc_flags':'4kz|auto',
 'aliproxy':'',
 'proxy':'',
 'open_api_url':'https://aliyundrive-oauth.messense.me/oauth/access_token',
 'is_vip':true,
 'quark_is_vip':false,
+'uc_is_vip':true,
 'danmu':true,
 'quark_danmu':true,
-'quark_cookie':'__pus=94f8040955a91d7f805b96d482fe1a98AARsgP5rhPs5muEJHwphulmxYZL+Ci81Q9u1Jy0nNJyIhY3Gbd54XByI+UO/k9FJmieFhDSDGnnb/9AnKJBCQA7+'
+'quark_cookie':'__pus=94f8040955a91d7f805b96d482fe1a98AARsgP5rhPs5muEJHwphulmxYZL+Ci81Q9u1Jy0nNJyIhY3Gbd54XByI+UO/k9FJmieFhDSDGnnb/9AnKJBCQA7+',
+'uc_cookie':'__pus=5d97726d369b78bfb20bacdff42f8697AATsNBRgW4a6Qu227UH/ZI9SYfsrkpNJCdzRe3x4/hXu+cL8M30SwHoDNvRE0ZQp84y0/2I295+0ZZ7ksRt2sweB'
 }
 ">$CURRENT_DIR/aa.json
 
