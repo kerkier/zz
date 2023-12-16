@@ -252,16 +252,6 @@
 			"ext":"https://m.jmzp.net.cn$$$null$$$1"
 		},
 		{
-			"key": "极光",
-			"name": "☀极光┃App",
-			"type": 3,
-			"api": "csp_Skapp",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": "cF2Bh7Go+swnimRrS4lMkC5IU+DEUhx+OIg096VgYdDXyDJz70foByqaPPS4RAca6AqTfUQV+jjSDbw4X6b9uJnCDysGmjvh+55akGF9Qzr7WYxYeI7hKNVoqEEpPa32AHiHipBkGeGOS46Uh9ADAgpQDoZ6G20p/ed+tfFIMdOBb35FddbTWy08rvPAbxalgCN+ORgOcyus/x/3DGIl9cckdrwEadwKSPdG1fkb2qB3vCXSgzVoCUepAo3aLjjHpBDxcqj/Kgy4ayi2Zm+l39a6F1eTeteNVGfNe2ZoMWQRGhtYxbn+BR6gqA1b4b19XYsh5037EGtVpFYPwUSQtAQ==$$$null$$$1"
-		},
-		{
 			"key": "攻阁",
 			"name": "🛕攻阁┃App",
 			"type": 3,
@@ -321,60 +311,6 @@
 			"changeable": 0,
 			"ext": "qebgGqODxKrWujD2TaoZoyh6aeYntZLsTaZW8MQvVNORiHLLi/o/cEEEXkSs1vfHEuiURxMTr9zL2Kwbffz2pDvLCamrK1tuxIcczsaI7cfsAh5gcgyzOOdZUszoU45ZgS9Bi4HZ3RDHZAWEqP0JyTaH32oDxgO9nx/xhe1xyVRyj9y5gkfPVt2AP94I8/DwDI9CEstcPzGfRNHYxlCuGMtnMvVwzonmkNDyOw+N5xr2ZI3P8O1cj04mCEAE6/d2tGSU/o+EOyWVLWWw0R3hoduHvjAtuMbBt6WNCcsL51zWceiTcsl34acqd9Pya3lA52ZFRojME/R4zdTzMbvwrOEF3Up0eB58//+NM6k4tW+cBNAHDGgO8t7hcfSG/TnJLQ7Gigrn899dGbFeQMCEQf0zxMxfgYBDkADs0aza9N2QIXChgEDVFDvw0vE2m6b+bJfswmbrhNEIM//95XpMv68HEP3jCTwFEehattwHjyYE4fJoH3OtPO++pDiZltaxdizfFD6WmTO+v4qub1QfpUEXWHzG6nqDA9MioigiTRdRAb4PEMioBCJS5/gel+PGRja1cR1NtBjl4RKpSPstwrmczG8qKQrn2Zjwkz8f4OdnEBKRLaWzb/hVDAQgqRfUyohEdnQyocaYsnB5lJoMSp93QCzwAuHYueyMh2fNpcemWGfs58wrZr5VFSBaQDYv/HjsNntoPaCDpoQIV9DJKiqQsiYMblsz/Mdbnlfd1vI5X69TVPvItzh26zXjgpFBKsiFDOtvd3bNe92XnTH3jiDgBQbqoL6jUbvhNQapqRUZxovWk30UQ0YTQnqODkorKdrEB1IeNhKt0epurJG/G7A6DQ6/6lZ7pAwlYVlfXzFgZOGNb1Hs52j2F+sGvgWY00BAH1eHtpHPPdckL25JMKai3QDQUAVBxAI8njCmcNUPfl9kDZe62QMNJwaZKD9eaOjNrdVsKjah9gkiWL8BnDxJeGErZyrvKhyqg0fwNvyn8wEfeUlwRzfDysrvjdBz3$$$null$$$1"
 	    },
-	    {
-			"key": "星星",
-			"name": "✨星星┃App",
-			"type": 3,
-			"api": "csp_Appto",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": "DRKzxyMKvtSwY8KlZf2E0UaodOFwpc55fZ8i/57cIgQJHQLy6PnKLAAj9UrkpoexlNCAomzVttbI6D6TEnlHNVDqRhIQqGlHt8m6PjVxP7PSlmraDar52uqEU7UXaaV+UGqz0bc9q95VVRMK4uX5l674wT+p5Cp2QGr1D24Uz7QNkA6GgkDGW/ezLoYsXUCc7xsDK5ev51cJxn0cIJClFysrOGsTvyLYjYIF2ktu+F36QVcAsAvA6Jpyz2hSTlWadidOt2m81TA5yrfAKjBILuQ63gcnyXh6SH9VjER5dL2KD8iTVBAN3L9TlQqDHPr64N0D6mAldXLMYJM/RrTUznCbIno7V/eTT+YqnLWNekVigNB8Q7Fp3WgMYfk73VYcOqPKO2qwQWyJqaQDW4Uo7nFrQWttqYAwWEDhjM/ABuYLkLX9V83/QFOPkhBJZ+eQoqsiVP3ZugFGB5/XuVZkoYWaG00BRQ3j55vTflJ2ne0WQcFAj6GcYNLodkII4Ji53kVoL+w55Cc9PmtSR1tynlWDylYBfkJbtDOJSuEUKDnKiD/ZFqMAejQFV9EcZr1g6QbLIf/FRldeLYRxsYsWPFc2STqEdgGA+osyO/zzyaeZLH5AJ02l7kKyMxKMPaRF2MGX1DPnZHrbXA4u0A5Vy3M3IMFNZaR0f08C4KDDi1xY=$$$null$$$1"
-		},
-		{
-            "key": "超神",
-            "name": "⚛️超神┃App",
-            "type": 3,
-            "api": "csp_Appto",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "Nm6kHImBI1jr6VSKVUPgJGCYkeKLb8Sjp1Na6UBEM2CRUW8htts45LDQ18nx0gqcjehIgtVhsgHjWqvE5T4+I0FJF8Po2QBCUA/bMHdMJAYWxbeI9soGqn8bxOflshBTNBewsn20MTbpMjfAHYAgWmyLvES09FVNl74D3aTsMwRMwoSaMx6GFjKJ9Gs4CSRyD4MFqbaHbG/jsYcBykyYtgCk9hH4IFFnWVntJ8PqEirD9OzzNKWf6cNhMOMPGF9W9dKqwzGGuh+jQ3BISOMBVcQO35PL1cmHmsmf1T41zzc505s4MoLmF6MwoXVXgNk1ni/OMZWLP59tPLgRoK9tMXm270YWMJplTWEJ3bE8TrHVkM1dJ5udmlatuz/XqqdZCspJGX/LhokZNMl2IbwD5bMufwIRRqLzwcOv9+nTjElseZEM7g5qz6kNrkmVQNOFQ1zXc487lNqYph053yEQB/gn9z3iXhd+hYdVA59LWe5Ev7oLbCJqG1joJBU7s+6dfJ0Kamgoo9t8nvZc7NakY5qku6O35mvlVmjmQkgMmIL+VDAESF97J1hPaOTY0w0Q5CMyqmdxac3t+YTwENOiLUT5U1VmZYOsYHA9XURhbqgNPojj23Xj9j32bfUMZDK8WPcltxOb3SmwQe0Y8ibIlqKc+YGY5xvze81NVv39kQsc=$$$null$$$1"
-        },
-		{
-			"key": "蜂鸟",
-			"name": "🕊蜂鸟┃App",
-			"type": 3,
-			"api": "csp_AppSK",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;e40916ed5596602be43f2b003c65c8fc",
-			"ext": "FbjPcVZY48PN/RIZ5QqOrspmMoZYCIIND24O/vn7yUhWQcuI8HjexlGPt+etACSwf3iKwX4rh3ktWiMrCNspYRZYUM6f0R/eKT9M0yoRk6EyAfugfXYhMxjmPGFi28eiv3OAOtR9Ttwk9kZJ6wehHhpaZOu66RhRYpVbfGEUahA="
-		},
-		{
-			"key": "皮皮虾",
-			"name": "🦀皮皮虾┃App",
-			"type": 3,
-			"api": "csp_AppSK",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;e40916ed5596602be43f2b003c65c8fc",
-			"ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZWG4dUVjwO4+rih1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
-		},
-		{
-			"key": "南坊",
-			"name": "☀南坊┃App",
-			"type": 3,
-			"api": "csp_AppMao",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"jar": "./jar/hh.jar;md5;e40916ed5596602be43f2b003c65c8fc",
-			"ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
-		},
 		{
 			"key": "繁星",
 			"name": "💥繁星┃App",
