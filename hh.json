@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;b67050358cd0a8ef8f04ffc70f2b0310",
+	"spider": "./jar/pg.jar;md5;8391f8f839c4de2ade2796e46fbb7d41",
 	"wallpaper": "https://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -273,7 +273,7 @@
 		},
 		{
 			"key": "TVB云播",
-			"name": "☁️TVB云播┃App",
+			"name": "👕TVB云播┃App",
 			"type": 3,
 			"api": "csp_Skapp",
 			"searchable": 1,
@@ -868,7 +868,19 @@
 			"changeable": 0,
 			"timeout": 60,
 			"ext": "./json/aa.json$$$null$$$1"
-		},	
+		},
+		{
+			"key": "csp_YunSo",
+			"name": "☁小云┃云搜",
+			"type": 3,
+			"api": "csp_YunSo",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0,
+			"timeout": 60,
+			"ext": "./json/aa.json$$$null$$$1"
+		},
 		{
 			"key": "push_agent",
 			"name": "🛴推送",

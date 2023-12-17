@@ -38,7 +38,7 @@ echo -n "{
 'thunder_thread_limit':0,
 'thunder_is_vip':false,
 'thunder_vip_thread_limit':0,
-'thunder_flags':'4kz|4k|auto',
+'thunder_flags':'4k|4kz|auto',
 'aliproxy':'',
 'proxy':'',
 'open_api_url':'https://aliyundrive-oauth.messense.me/oauth/access_token',
