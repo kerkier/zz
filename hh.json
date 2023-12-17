@@ -1443,6 +1443,13 @@
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
+			"name": "晴天",
+			"type": 0,
+			"url": "./晴天.txt",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
 			"name": "港澳台",
 			"type": 0,
 			"url": "http://www.stream-link.org/stream-link.m3u",
