@@ -214,8 +214,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,		
-			"ext": "null$$$null$$$1"
+			"changeable": 0
 		},
 		{
 			"key": "csp_Czsapp",
@@ -226,7 +225,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"ext": "https://www.czzy33.com/$$$1"
+			"ext": "https://www.czzy33.com/"
 		},
 		{
 			"key": "csp_77",
