@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;6d71dc5aa05d94acbe05cd1a4858e169",
+	"spider": "./jar/pg.jar;md5;efb86a0831e4de3beac0045d23ecbd01",
 	"wallpaper": "https://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -1478,13 +1478,6 @@
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
-			"name": "枫林",
-			"type": 0,
-			"url": "https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
 			"name": "唐三",
 			"type": 0,
 			"url": "http://home.jundie.top:81/Cat/tv/live.txt",
@@ -1494,7 +1487,7 @@
 		{
 			"name": "肥羊",
 			"type": 0,
-			"url": "https://gh-proxy.net/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+			"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
