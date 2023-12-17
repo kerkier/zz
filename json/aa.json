@@ -1,5 +1,5 @@
 {
-'token':'553ac2660fc34fc19bb8925102b59e16',
+'token':'865f415a3c59471481f6ba04415b3d28',
 'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlOTE0YWYwNzBmZDg0N2Q5ODZlZTRiYmE5MGY5ZDM1MCIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzEwNDY5MzMzLCJpYXQiOjE3MDI2OTMzMzMsImp0aSI6ImYwNmFlY2UwODgyZjRlOGU5YjlmNTY4YzEwNzM3NTY4In0.QYaNHbwxAQlure9opKa0vqIFkLdVZ8Zzgf3myIPDc14QXlcX-CxTSFThRRaEEptGsFBXVxalyb1_07PkcCYyAQ',
 'thread_limit':32,
 'is_vip':true,
@@ -16,7 +16,7 @@
 'thunder_thread_limit':0,
 'thunder_is_vip':false,
 'thunder_vip_thread_limit':0,
-'thunder_flags':'4kz|4k|auto',
+'thunder_flags':'4k|4kz|auto',
 'aliproxy':'',
 'proxy':'',
 'open_api_url':'https://aliyundrive-oauth.messense.me/oauth/access_token',
