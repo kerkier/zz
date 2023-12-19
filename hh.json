@@ -1137,36 +1137,6 @@
 			"ext": "./xp/yingba.json"
 		},
 		{
-			"key": "csp_JavDb",
-			"name": "🥬JavDb┃磁力",
-			"type": 3,
-			"api": "csp_JavDb",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 1,
-			"changeable": 0,
-			"timeout":60
-		},
-		{
-			"key": "csp_JavBus",
-			"name": "🚌JavBus┃磁力",
-			"type": 3,
-			"api": "csp_JavBus",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 1,
-			"changeable": 0,
-			"timeout":60
-		},
-		{
 			"key": "配置中心",
 			"name": "🔧配置中心",
 			"type": 3,
