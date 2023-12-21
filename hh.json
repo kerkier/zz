@@ -866,7 +866,7 @@
 			"filterable": 0,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json$$$satoken=755e8a90-5deb-4970-95f4-fae222ea1b52$$$1"
+			"ext": "./json/aa.json$$$satoken=755e8a90-5deb-4970-95f4-fae222ea1b52"
 		},
 		{
 			"key": "Zhaozy",
@@ -879,7 +879,7 @@
 			"filterable": 0,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json$$$guub123$$$aa123456$$$1"
+			"ext": "./json/aa.json$$$guub123$$$aa123456"
 		},
 		{
 			"key": "PanSou",
@@ -892,7 +892,7 @@
 			"filterable": 0,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json$$$null$$$1"
+			"ext": "./json/aa.json"
 		},
 		{
 			"key": "UpYun",
@@ -904,7 +904,7 @@
 			"filterable": 0,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json$$$null$$$1"
+			"ext": "./json/aa.json"
 		},
 		{
 			"key": "PanSearch",
@@ -916,7 +916,7 @@
 			"filterable": 0,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json$$$null$$$1"
+			"ext": "./json/aa.json"
 		},
 		{
 			"key": "csp_Dovx",
@@ -928,7 +928,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json$$$null$$$1"
+			"ext": "./json/aa.json"
 		},
 		{
 			"key": "csp_QuarkPanso",
@@ -940,7 +940,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json$$$null$$$1"
+			"ext": "./json/aa.json"
 		},
 		{
 			"key": "csp_Funletu",
@@ -952,7 +952,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json$$$null$$$1"
+			"ext": "./json/aa.json"
 		},
 		{
 			"key": "csp_YunSo",
@@ -964,7 +964,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json$$$null$$$1"
+			"ext": "./json/aa.json"
 		},
 		{
 			"key": "csp_YunPanOne",
@@ -976,7 +976,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json$$$null$$$1"
+			"ext": "./json/aa.json"
 		},
 		{
 			"key": "csp_Panta",
@@ -1000,7 +1000,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json$$$https://dapanso.com$$$null$$$1"
+			"ext": "./json/aa.json$$$https://dapanso.com$$$null"
 		},
 		{
 			"key": "csp_Qianfan",
@@ -1012,7 +1012,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json$$$https://pan.qianfan.app$$$null$$$QianFanID=olvai292f69vd1ccvpnqbturfkencv1w$$$1"
+			"ext": "./json/aa.json$$$https://pan.qianfan.app$$$null$$$QianFanID=olvai292f69vd1ccvpnqbturfkencv1w"
 		},
 		{
 			"key": "push_agent",
