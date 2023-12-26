@@ -87,7 +87,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json$$$http://api.wogg.xyz/$$$null$$$1$$$./json/wogg.json"
+			"ext": "./json/aa.json$$$http://api.wogg.xyz/$$$null$$$1$$$https://gitlab.com/kerkier/khb/-/raw/main/json/wogg.json"
 		},
 		{
 			"key": "Wobg",
