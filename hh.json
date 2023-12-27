@@ -99,11 +99,11 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json$$$https://wobge.run.goorm.io/$$$1$$$./json/wogg.json"
+			"ext": "./json/aa.json$$$https://wobge.run.goorm.io/$$$null$$$1$$$./json/wogg.json"
 		},
 		{
 			"key": "ysc",
-			"name": "👽影视车┃云盘",
+			"name": "🚐影视车┃云盘",
 			"type": 3,
 			"api": "csp_Wogg",
 			"searchable": 1,
