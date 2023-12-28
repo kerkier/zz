@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;0870b6ccd06622cf02289cca8454ba90",
+	"spider": "./jar/pg.jar;md5;2ec4bdd3931cf700f9c71ef3c814a3ba",
 	"wallpaper": "https://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -172,6 +172,18 @@
 			"changeable": 0,
 			"timeout": 30,		
 			"ext": "./json/aa.json$$$null$$$1"
+		},
+		{
+			"key": "盘99",
+			"name": "🕘盘99┃云盘",
+			"type": 3,
+			"api": "csp_Pan99",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0,
+			"timeout": 30,		
+			"ext": "./json/aa.json$$$https://pan99.xyz$$$null$$$1"
 		},
 		{
 			"key": "皮皮",
