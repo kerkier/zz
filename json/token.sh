@@ -52,7 +52,13 @@ echo -n "{
 'yd_auth':'Basic cGM6MTkzNzAyMTM3NTM6YlVwaHFUQU98MXxSQ1N8MTcwNTc1NDI3NjA2NHxERnlvMEx6cmUudFpBTTFHcERDcDZiUG5IX2l3bnJNQTNwTUlGNzFyWGVjMU5ScnVvYmhlZGdFY3NiUWc1WG8yTkdkVzNTVUxLOXpwV0lsZzFuN3FBdDlFSnREdG9KV3NpSThNLlNKTHhKMW50b2RGbGNBbE5kY3dJNUxwcGdRQU5vQlhMN1RxcWg4dzdfQ2d6UUxTODQ0ekh0anNMYm1Ga01BaC5vUTFLT0kt',
 'yd_thread_limit':4,
 'yd_flags':'4kz|auto',
-'yd_danmu':true
+'yd_danmu':true,
+'pikpak_username':'dorabohan@lista.cc',
+'pikpak_password':'aa123456',
+'pikpak_flags':'4k|auto',
+'pikpak_thread_limit':2,
+'pikpak_vip_thread_limit':2,
+'pikpak_proxy':''
 }
 ">$CURRENT_DIR/aa.json
 

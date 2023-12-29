@@ -1,5 +1,5 @@
 {
-'token':'ae9344e124a6476682b694c0fead6fd7',
+'token':'3beaab7665334407afb91aaaf6430220',
 'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlOTE0YWYwNzBmZDg0N2Q5ODZlZTRiYmE5MGY5ZDM1MCIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzExMTg2NDExLCJpYXQiOjE3MDM0MTA0MTEsImp0aSI6IjkzOGE5ODgyYjkzNDRhYWZhZWM2ZGFmMTQ4YzgxZTFmIn0.nWyDnoO5gwY0jHSS49YO3DATA6aBPmaURPFlysfNghrDhm71h-OYMn2A3QaKp4803S6zXR9C_99GON0UlSTgOA',
 'thread_limit':32,
 'is_vip':true,
@@ -30,5 +30,11 @@
 'yd_auth':'Basic cGM6MTkzNzAyMTM3NTM6YlVwaHFUQU98MXxSQ1N8MTcwNTc1NDI3NjA2NHxERnlvMEx6cmUudFpBTTFHcERDcDZiUG5IX2l3bnJNQTNwTUlGNzFyWGVjMU5ScnVvYmhlZGdFY3NiUWc1WG8yTkdkVzNTVUxLOXpwV0lsZzFuN3FBdDlFSnREdG9KV3NpSThNLlNKTHhKMW50b2RGbGNBbE5kY3dJNUxwcGdRQU5vQlhMN1RxcWg4dzdfQ2d6UUxTODQ0ekh0anNMYm1Ga01BaC5vUTFLT0kt',
 'yd_thread_limit':4,
 'yd_flags':'4kz|auto',
-'yd_danmu':true
+'yd_danmu':true,
+'pikpak_username':'dorabohan@lista.cc',
+'pikpak_password':'aa123456',
+'pikpak_flags':'4k|auto',
+'pikpak_thread_limit':2,
+'pikpak_vip_thread_limit':2,
+'pikpak_proxy':''
 }
