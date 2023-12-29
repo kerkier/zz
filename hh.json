@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;e3959955813b2890b0eff6bd0b338eba",
+	"spider": "./jar/pg.jar;md5;e330864bb00327f6c15914a6a19d6ed0",
 	"wallpaper": "https://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -76,6 +76,17 @@
 			"filterable": 1,
 			"changeable": 0,	
 			"ext": "./json/al.json"
+		},
+		{
+			"key": "csp_PikPakShare",
+			"name": "📦PikPak┃网盘",
+			"type": 3,
+			"api": "csp_PikPakShare",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0,	
+			"ext": "./json/pikpakclass.json"
 		},
 		{
 			"key": "Wogg",
