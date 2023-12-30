@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;72f27399736ee6c4565f39903dfc9d3c",
+	"spider": "./jar/pg.jar;md5;1275798f36f8f57b83152eae0bba955d",
 	"wallpaper": "https://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -86,7 +86,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,	
-			"ext": "./json/aa.json$$$./json/pikpakclass.json"
+			"ext": "./json/aa.json$$$./json/pikpakclass.json$$$./lib/pikpakclass.txt"
 		},
 		{
 			"key": "Wogg",
@@ -1270,6 +1270,17 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0
+		},
+		{
+			"key": "csp_PikPakShare.a",
+			"name": "🎁PikPak┃网盘",
+			"type": 3,
+			"api": "csp_PikPakShare",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0,	
+			"ext": "./json/aa.json$$$./json/pikpakclass.a.json$$$./lib/pikpakclass.a.txt"
 		},
 		{
 			"key": "Youtube",
