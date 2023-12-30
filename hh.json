@@ -86,7 +86,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,	
-			"ext": "./json/aa.json$$$./json/pikpakclass.json$$$./lib/pikpakclass.txt"
+			"ext": "./json/aa.json$$$./json/pikpakclass.json$$$./json/pikpakclass.txt"
 		},
 		{
 			"key": "Wogg",
@@ -1280,7 +1280,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,	
-			"ext": "./json/aa.json$$$./json/pikpakclass.a.json$$$./lib/pikpakclass.a.txt"
+			"ext": "./json/aa.json$$$./json/pikpakclass.a.json$$$./json/pikpakclass.a.txt"
 		},
 		{
 			"key": "Youtube",
