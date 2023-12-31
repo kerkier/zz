@@ -1607,8 +1607,13 @@
 			"name": "重庆",
 			"type": 0,
 			"url": "https://gyssi.link/iptv/chinaiptv/%E9%87%8D%E5%BA%86.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjUxMDA2ODUzNjAsImlhdCI6MTcwNDAzMjk5MSwiZXhwIjoxNzA2NjI0OTkxfQ.rYpR5Tuo-uAIUGlwLxFWwcDF8-jEYWU65sPqipkqjvE",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+		},
+		{
+			"name": "上海",
+			"type": 0,
+			"url": "https://gyssi.link/iptv/chinaiptv/%E4%B8%8A%E6%B5%B7.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjUxMDA2ODUzNjAsImlhdCI6MTcwNDAzMjk5MSwiZXhwIjoxNzA2NjI0OTkxfQ.rYpR5Tuo-uAIUGlwLxFWwcDF8-jEYWU65sPqipkqjvE",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
 		},
 		{
 			"name": "晴天",
