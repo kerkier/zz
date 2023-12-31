@@ -40,6 +40,7 @@ echo -n "{
 'thunder_vip_thread_limit':2,
 'thunder_flags':'4k|4kz|auto',
 'aliproxy':'',
+'aliproxy_url':'',
 'proxy':'',
 'open_api_url':'https://aliyundrive-oauth.messense.me/oauth/access_token',
 'danmu':true,
