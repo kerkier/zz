@@ -86,7 +86,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,	
-			"ext": "./lib/aa.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.txt.gz"
+			"ext": "./lib/aa.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz"
 		},
 		{
 			"key": "Wogg",
