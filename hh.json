@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;f26c4b16aea6bb8ef93b26809552681b",
+	"spider": "./jar/pg.jar;md5;f6e6931eeea9044ebae039cbf14e2e75",
 	"wallpaper": "https://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -10,7 +10,7 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"changeable": 1,
-			"ext": "./json/doban.json"
+			"ext": "./lib/doban.json"
 		},
 		{
 			"key": "drpy_js_磁力熊",
@@ -75,7 +75,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,	
-			"ext": "./json/al.json"
+			"ext": "./lib/al.json"
 		},
 		{
 			"key": "csp_PikPakShare",
@@ -86,7 +86,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,	
-			"ext": "./json/aa.json$$$./json/pikpakclass.json$$$./json/pikpakclass.txt"
+			"ext": "./lib/aa.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.txt.gz"
 		},
 		{
 			"key": "Wogg",
@@ -98,7 +98,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json$$$https://api.wogg.xyz/$$$null$$$1$$$./json/wogg.json"
+			"ext": "./lib/aa.json$$$https://api.wogg.xyz/$$$null$$$1$$$./lib/wogg.json"
 		},
 		{
 			"key": "Wobg",
@@ -110,7 +110,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json$$$https://wobge.run.goorm.io/$$$null$$$1$$$./json/wogg.json"
+			"ext": "./lib/aa.json$$$https://wobge.run.goorm.io/$$$null$$$1$$$./lib/wogg.json"
 		},
 		{
 			"key": "ysc",
@@ -122,7 +122,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json$$$https://www.weixine.net/$$$null$$$1$$$./json/wogg.json"
+			"ext": "./lib/aa.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json"
 		},
 		{
 			"key": "Hdhive",
@@ -134,7 +134,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json$$$null$$$1"
+			"ext": "./lib/aa.json$$$null$$$1"
 		},
 		{
 			"key": "4KHDR",
@@ -146,7 +146,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,		
-			"ext": "./json/aa.json$$$./json/4khdr.json$$$1"
+			"ext": "./lib/aa.json$$$./lib/4khdr.json$$$1"
 		},
 		{
 			"key": "XB6V",
@@ -158,7 +158,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,		
-			"ext": "./json/aa.json$$$https://www.66ss.org/$$$null$$$1"
+			"ext": "./lib/aa.json$$$https://www.66ss.org/$$$null$$$1"
 		},
 		{
 			"key": "校长",
@@ -170,7 +170,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 30,		
-			"ext": "./json/aa.json$$$null$$$1"
+			"ext": "./lib/aa.json$$$null$$$1"
 		},
 		{
 			"key": "团长",
@@ -182,7 +182,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 30,		
-			"ext": "./json/aa.json$$$null$$$1"
+			"ext": "./lib/aa.json$$$null$$$1"
 		},
 		{
 			"key": "盘99",
@@ -194,7 +194,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 30,		
-			"ext": "./json/aa.json$$$https://pan99.xyz$$$null$$$1"
+			"ext": "./lib/aa.json$$$https://pan99.xyz$$$null$$$1"
 		},
 		{
 			"key": "皮皮",
@@ -206,7 +206,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 30,		
-			"ext": "./json/aa.json$$$https://ppxzy.net$$$null$$$1"
+			"ext": "./lib/aa.json$$$https://ppxzy.net$$$null$$$1"
 		},
 		{
 			"key": "蝴蝶",
@@ -550,7 +550,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"ext":"./json/jianpian.json$$$1",
+			"ext":"./lib/jianpian.json$$$1",
 			"timeout":60
 		},
 		{
@@ -574,7 +574,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"ext": "./json/aa.json$$$https://www.libvio.pro$$$null"
+			"ext": "./lib/aa.json$$$https://www.libvio.pro$$$null"
 		},
 		{
 			"key": "csp_DiDuan",
@@ -597,7 +597,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
-			"ext": "./json/nmys.json"
+			"ext": "./lib/nmys.json"
 		},
 		{
 			"key": "csp_Xinsj",
@@ -899,7 +899,7 @@
 			"filterable": 0,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json$$$null$$$1"
+			"ext": "./lib/aa.json$$$null$$$1"
 		},
 		{
 			"key": "YiSo",
@@ -912,7 +912,7 @@
 			"filterable": 0,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json$$$satoken=755e8a90-5deb-4970-95f4-fae222ea1b52"
+			"ext": "./lib/aa.json$$$satoken=755e8a90-5deb-4970-95f4-fae222ea1b52"
 		},
 		{
 			"key": "Zhaozy",
@@ -925,7 +925,7 @@
 			"filterable": 0,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json$$$guub123$$$aa123456"
+			"ext": "./lib/aa.json$$$guub123$$$aa123456"
 		},
 		{
 			"key": "PanSou",
@@ -938,7 +938,7 @@
 			"filterable": 0,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json"
+			"ext": "./lib/aa.json"
 		},
 		{
 			"key": "UpYun",
@@ -950,7 +950,7 @@
 			"filterable": 0,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json"
+			"ext": "./lib/aa.json"
 		},
 		{
 			"key": "PanSearch",
@@ -962,7 +962,7 @@
 			"filterable": 0,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json"
+			"ext": "./lib/aa.json"
 		},
 		{
 			"key": "csp_Dovx",
@@ -974,7 +974,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json"
+			"ext": "./lib/aa.json"
 		},
 		{
 			"key": "csp_QuarkPanso",
@@ -986,7 +986,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json"
+			"ext": "./lib/aa.json"
 		},
 		{
 			"key": "csp_Funletu",
@@ -998,7 +998,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json"
+			"ext": "./lib/aa.json"
 		},
 		{
 			"key": "csp_PanSearch",
@@ -1011,7 +1011,7 @@
 			"filterable": 0,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json"
+			"ext": "./lib/aa.json"
 		},
 		{
 			"key": "csp_YunSo",
@@ -1023,7 +1023,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json"
+			"ext": "./lib/aa.json"
 		},
 		{
 			"key": "csp_YunPanOne",
@@ -1035,7 +1035,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json"
+			"ext": "./lib/aa.json"
 		},
 		{
 			"key": "csp_Panta",
@@ -1047,7 +1047,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json$$$https://www.91panta.cn/$$$null$$$1"
+			"ext": "./lib/aa.json$$$https://www.91panta.cn/$$$null$$$1"
 		},
 		{
 			"key": "csp_DaPanSo",
@@ -1059,7 +1059,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json$$$https://dapanso.com$$$null"
+			"ext": "./lib/aa.json$$$https://dapanso.com$$$null"
 		},
 		{
 			"key": "csp_Qianfan",
@@ -1071,7 +1071,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json$$$https://pan.qianfan.app$$$null$$$QianFanID=olvai292f69vd1ccvpnqbturfkencv1w"
+			"ext": "./lib/aa.json$$$https://pan.qianfan.app$$$null$$$QianFanID=olvai292f69vd1ccvpnqbturfkencv1w"
 		},
 		{
 			"key": "push_agent",
@@ -1085,7 +1085,7 @@
 			"changeable": 0,
 			"recordable": 0,
 			"timeout": 60,
-			"ext": "./json/aa.json"
+			"ext": "./lib/aa.json"
 		},
 		{
 			"key": "csp_Nbys",
@@ -1280,7 +1280,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,	
-			"ext": "./json/aa.json$$$./json/pikpakclass.a.json$$$./json/pikpakclass.a.txt"
+			"ext": "./lib/aa.json$$$./lib/pikpakclass.a.json$$$./lib/pikpakclass.a.txt"
 		},
 		{
 			"key": "Youtube",
@@ -1338,7 +1338,7 @@
 			},
 			"searchable": 0,
 			"changeable": 0,
-			"ext": "./json/aa.json"
+			"ext": "./lib/aa.json"
 		},
 		{
 			"key": "应用商店",
@@ -1351,7 +1351,7 @@
 			},
 			"searchable": 0,
 			"changeable": 0,
-			"ext":"./json/market.json"
+			"ext":"./lib/market.json"
 		}
 	],
 	"parses": [
