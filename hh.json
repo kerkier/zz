@@ -1604,6 +1604,13 @@
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
+			"name": "重庆",
+			"type": 0,
+			"url": "https://gyssi.link/iptv/chinaiptv/%E9%87%8D%E5%BA%86.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjUxMDA2ODUzNjAsImlhdCI6MTcwNDAzMjk5MSwiZXhwIjoxNzA2NjI0OTkxfQ.rYpR5Tuo-uAIUGlwLxFWwcDF8-jEYWU65sPqipkqjvE",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
 			"name": "晴天",
 			"type": 0,
 			"url": "./qt.txt",
