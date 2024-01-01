@@ -1283,6 +1283,18 @@
 			"ext": "./lib/aa.json$$$./lib/pikpakclass.a.json$$$./lib/pikpakclass.a.json.txt.gz"
 		},
 		{
+			"key": "csp_JavDb",
+			"name": "🔞JavDb┃磁力",
+			"type": 3,
+			"api": "csp_JavDb",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 0,
+			"timeout": 1801,	
+			"ext": "http://javdb523.com"
+		},
+		{
 			"key": "Youtube",
 			"name": "❤Youtube",
 			"type": 3,
