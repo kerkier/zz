@@ -27,7 +27,7 @@
 			"api": "csp_YGP",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2"
 		},
 		{
@@ -42,7 +42,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"ext":{
 				"type":"演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
 				"cookie":"buvid3=3503378A-12C7-AA5C-100C-FC814999E60561361infoc; buvid4=FAB0477B-9FD7-F848-E2A8-F996876C5DC164625-123072420-BMPPWLHy%2FNzw%2F6rgNmQ1Vw%3D%3D; b_lsid=49F4FD11_18987F4075E; _uuid=35510F8A5-6FA1-7DD4-42EE-E247C1510C9C264177infoc; buvid_fp=cdb318ad22447acaf7c7d8bfb995eea5; b_nut=100; SESSDATA=83af1086%2C1705755123%2C1a8d4%2A714_GBpENXsFJeiCAab7nQeuSmaxdOlbL6uUMkI9NIdkyDWvbAC6LopM4PJ53_JQLnt9jTbAAAMwA; bili_jct=cc537f79fb878204e08aea4aa7b2b518; DedeUserID=3493079390620451; DedeUserID__ckMd5=e924f28f793d249d; sid=fdfbxdis"
@@ -53,7 +53,7 @@
 			"name": "🔱短剧网┃直连",
 			"type": 3,
 			"api": "./js/lib/drpy2.min.js",
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "./js/短剧网.js"
 		},
 		{
@@ -64,7 +64,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0
+			"changeable": 2
 		},
 		{
 			"key": "csp_Alist",
@@ -74,7 +74,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,	
+			"changeable": 2,	
 			"ext": "./lib/al.json"
 		},
 		{
@@ -85,7 +85,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,	
+			"changeable": 2,	
 			"ext": "./lib/aa.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz"
 		},
 		{
@@ -96,7 +96,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 60,
 			"ext": "./lib/aa.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"
 		},
@@ -108,7 +108,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 60,
 			"ext": "./lib/aa.json$$$https://wobge.run.goorm.io/$$$null$$$1$$$./lib/wogg.json"
 		},
@@ -120,7 +120,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 60,
 			"ext": "./lib/aa.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json"
 		},
@@ -132,7 +132,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 60,
 			"ext": "./lib/aa.json$$$null$$$1"
 		},
@@ -144,7 +144,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 60,		
 			"ext": "./lib/aa.json$$$./lib/4khdr.json$$$1"
 		},
@@ -156,7 +156,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 60,		
 			"ext": "./lib/aa.json$$$https://www.66ss.org/$$$null$$$1"
 		},
@@ -168,7 +168,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 30,		
 			"ext": "./lib/aa.json$$$null$$$1"
 		},
@@ -180,7 +180,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 30,		
 			"ext": "./lib/aa.json$$$null$$$1"
 		},
@@ -192,7 +192,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 30,		
 			"ext": "./lib/aa.json$$$https://pan99.xyz$$$null$$$1"
 		},
@@ -204,7 +204,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 30,		
 			"ext": "./lib/aa.json$$$https://ppxzy.net$$$null$$$1"
 		},
@@ -216,7 +216,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"
 		},
 		{
@@ -227,7 +227,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "https://www.bdys03.com$$$null$$$1"
 		},
 		{
@@ -238,7 +238,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "http://op.ysdqjs.cn$$$null$$$1"
 		},
 		{
@@ -249,7 +249,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0
+			"changeable": 2
 		},
 		{
 			"key": "csp_Czsapp",
@@ -259,7 +259,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "https://www.czzy33.com/"
 		},
 		{
@@ -270,7 +270,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2"
 		},
 		{
@@ -281,7 +281,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 30,		
 			"ext": "null$$$1"
 		},
@@ -293,7 +293,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"ext":"https://m.jmzp.net.cn$$$null$$$1"
 		},
 		{
@@ -303,7 +303,7 @@
 			"api": "csp_Skapp",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "vn38pGu553IrMEssAZqgcBq3X8/JEbn66+AURpE0Mus3oovGSrvzoLXjevmOuFmIRCAVFywwj606WB9MhOt5hbfdKPpiWl3wRuJDvTz6ya4oRUjcN5acwDE3v1d9xAUgUXdnW5KPpNLfNJfjZnhhtdP+gFx78F8XmjO1bsOENECKuAuvDjkouImzvVVHH3TJDBbfjE0/8h5wYyzMSJye53pj0taUBDaEczBuTC6dVeC9+/psjTafOHtwstJ6RITXPkshrVyULSOa+1bqrtNkjyF7OTw1rgMVDH/6A0DAZueYAXlwiBn1vRx3FyUhvd2xPasgu+QeBXcjK+bU0GiB1Rw==$$$null$$$1"
 		},
 		{
@@ -313,7 +313,7 @@
 			"api": "csp_Skapp",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "sp/BwDxS0hOjrfvIyyIxZT5xSzUQ+qQDwzDrcqB0yRN+yoogp4EGJI+Y72kEm+X2Mdv3QSc55BWS+nqh3t95+CpUO07D91sF8Vscyjq0qEQj1ExwrIp7HsPdLYXpfKP/1AT1BGLDIB6GYemQPJlZ15RyiPTt4HkMJjroiLVArAjgHHNufdebmUZLWVGPXMq75EI4dtjgAzmvS43pZSTC5HoxKfw9WB1Xxckhgpolx5jofX587OWtGWHoGJJ8UObKZYk/mwUHN27v/CWYuI9vbWhXKDCRX4NrL9m3NteGoEQEcOlrEOvVnhXOBn9k1ox1XsVxId7r5twTPR+3vnqWfvw==$$$null$$$1"
 		},
 		{
@@ -323,7 +323,7 @@
 			"api": "csp_Skapp",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "CWL+IfA5s3TICYJ8lk+lYcjPA/WXNYE4LRTfUSa9I+X9ibZY05syLe/O7u2miaiYRiSaKE51xQOxm38YeL27jRUyF6+GJKVQArnP7QbC+qw2okju8YACfPzD3rpQo8uckl2rQh925A6lp4VD0ELHJrUvDGTlojwKtynX78d5E88HbdSsCV5pIueNPH5+z42FBt21KGN5lnE7/qqEGpSyFzbARD4aWuhSHsun7GQU9yaXZn0F4l4o2YYaEvRtsz4z9Mo8+7aj2nZsCkFWLNpgv6kzFNohSTWVDkajg5aj6s7d8CPNIvvC+gr0zm79fuuvNQF6NfaiBOrvTwamMJa3F3w==$$$null$$$1"
 		},
 		{
@@ -333,7 +333,7 @@
 			"api": "csp_Skapp",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "CWL+IfA5s3TICYJ8lk+lYcjPA/WXNYE4LRTfUSa9I+X9ibZY05syLe/O7u2miaiYRiSaKE51xQOxm38YeL27jRUyF6+GJKVQArnP7QbC+qw2okju8YACfPzD3rpQo8uckl2rQh925A6lp4VD0ELHJrUvDGTlojwKtynX78d5E88HbdSsCV5pIueNPH5+z42FBt21KGN5lnE7/qqEGpSyFzbARD4aWuhSHsun7GQU9yaXZn0F4l4o2YYaEvRtsz4z9Mo8+7aj2nZsCkFWLNpgv6kzFNohSTWVDkajg5aj6s7d8CPNIvvC+gr0zm79fuuvNQF6NfaiBOrvTwamMJa3F3w==$$$null$$$1"
 		},
 		{
@@ -343,7 +343,7 @@
 			"api": "csp_Skapp",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "wf7jTHTllmPx90cSfqYsxOFbNiEn/OOwcQMioXntTCgGo6loj/amsxwUNfJPF2W00I+ZJzSan7pD3OPqeGn1/3CaJLZhzh/OtQFo7cJf/AA/LRGchJ/NNsdu8c3HeY8X3ic+nAYiOFIT7HiLfqFnBom04dCSbujoxb0RoT6iYiZSArenzm5E5lEpGHD/KltmbDpcX9Lkxj+9HnF/okAhK8nsUmta/Jrnk40HP7cZodP3QGeLUpeoOCQZzw++LuS9iYZSentZVKL9q/puBZ78nhjx4fw94cM1SbG0rcAB9vwZr4z9YYNRythGAfNeOsMgRpAOnZH8K5JuWFoADNhHLMA==$$$null$$$1"
 		},
 		{
@@ -353,7 +353,7 @@
 			"api": "csp_Appto",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "cepveeMdL3qzBp3D86fBcgucTPCRb88AXoITrxvmypEbJbvnC/4ipv8+gLYBHlIYBFWfcZr3fkzfxQ8gAmZel3ej+I4REk7LnHUBNtZ9P0S97uBwswzPtz3voKW2TcVbBKQNmA2XowTEbiwPTJTkP8H3KpHtipqyoPNDOoDXGviUlUQqn3+A8FSXDyoySvEvG3eTw64Pj48USmhQvQPG8Jvhpo9+YRSg3pa6vv9hUjYmgheP1X8rA6zqy9N4L++/NL5gszaaf8yH4omdSxtYrj330jkXC4vPWU5fE4p6vRrq7mxA5Bp48Lhp3GjrKDyoOjBrI7+yvKarHhyoklswLFD3vfmM4J3osXIoUnwpXBBktdkDgFzUHvxY8BUeCTMBIPQfGiS8v88z6OPR8ven+KdreBl8BV6RqFK7vHb/OM9O5qLNpsPNSImbet1tdaAbSyEUxNUjplKpbGCxM5RZgcdyl/prki2aDcpICE54hcagK8d0JvmohzpLE2xper9AdIP1lD+sYndodhIYejNPFP3BiKPdRkBTrcQbicyp9oA6OIg2/aoJRvH1tai/OcozC5DaT0TPg1eo1NhodMKHa/CZ3Srg0ij9ocYwbX/e42JrBCgnp0gCph/oz7EipyUDI3n437r/skJ/cDEPColQ8PfT2LQE7hPGbp1/mDG3aKLNSuVCiMkQy66a6jyfyPKd8GqzpkGPCrPpneBNsMjGqLCveMl/PgXloTG7BZbg+X0VoXpCjOC3u9n2/Z4xqdnc+Dhw1LBXpdhvLKKl6d9K6/dOVgWRIfYx2I5DPQn79fU47+UkPxPA7qAaU0v9tRXYKXfRh2yJcijXre4/JzBxSmR2owrKVmnXcwBlsIseor36jbISj4TJdA+gVP5Ayfh5a09kpFDYvuPTgRhs4O2z2t3LBnQzLE3KBT2xPznJurYInw7P4yVxDOhpFkGGPZNV/+ehl9CcWwhZzUvHqtPD2zqZXKZvgB3BxR4b1NTgtRY+h28BFD4N9ejY5aJ9yS50kXYTIhXvwrzbRAjHLf+sj4t0gybV7S4osR92WoOyf3rpyeUQdO+9Bqfl5fWvqVl9tMC7/ukkgqlb2p+R1TLbiqD+ruQNMYGdETK4Nl4dkgUVOxOmabWH6RjKiykA5GQWKwo2PLrxE4fwhgkNCYlVDP8gYUBPdo5SeXM7p2ZKrRs7hlFGA2WbSnC4Ni05mwCmlOw9pJzbCXUMalJcD+9b53sLKgb4JYWjEmPe1/4fpH+xwZPlNDjQXGVolNxGkUodNzUFTECEWZLjGtqwQiQYNrErYXRYfea5Vx02WW1JyrHbYJ4FJv61h1KQ6fXAxty+OdtMTU95TwpNr8E62aFNSMQ==$$$null$$$1"
 		},
 		{
@@ -363,7 +363,7 @@
 			"api": "csp_DDMJ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "we2aWwLOHN18wGu/wt+png8wz6kVMGS23xntuXkveVBR2/9I2ridVLRyjBcXYLkv6X/15IRqQRJnh3DlFsarda8hemp8b7pIAN7M17xW/69bHungyJg1sG4CS8Q22+fyOlgxCvIGoHa8BcE0dtF9dwipO9OW9YqGMPEic+rZ6zCqXZ3GQYWKXYg4BvzODEtKTLmInutyyw3LYs8Kbo0qXio05MdcA4dmIhMKG0lm3SyS+a3+/FGRGRdQ9Mr44asDnfxhP5CgMTuWqPTtJgNxhbU9SFs5Ff9dkbMduJnz6r8AMMyh2xMF/wlTLtbyKcGSZpohmW2+KJT6FnH2jfnx6arS48bNPRonIVQTLWnTBlp3MrUwh4snP0eyEPHgbKRUQU+sbfGTqSkpq/Tblb8i//tznlq4kvEBKelkp35oLx/paSGIMrXqrziRM8Xl21cyXB80y9FP+6A/El5bpaTNwUy1fkzvyPSk/GK56uMiIVzzpi52eDd/n+4gH75lhZ4MrYxAFkDQN+FHl0Gc+Q5aseekN3syyjIS4VGfEMLZaxjFWFST+5DEcdCY+c2xZ2gq8fFoaNO0851mgV+f8g3TXbbBfxjS556HqWpTqa47DgiSpiSR3Y/qEZLKBNf84GZ+vkNag5umQShsp8+M+NCgXW6ir9iga+/fl0iM5oeyu15E=$$$null$$$1"
 		},
 		{
@@ -373,7 +373,7 @@
 			"api": "csp_Appto",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "nbOdUoFXWvBmYlNj/qG8q6ytWFIZwtQPtFFI3cwHTOjM7FKVzTbwY0UHQEImlWb/pHq5gMm6LS2HhJI1m5+/s20tWUHsfJ1BIc4rlkWL5xqOQ/EhgcwCwcKi7ECmsFCBAxb69vZB0qXeElk+GDnHEPxoiB3EqjFfAJ88lClO/fKiZKGBnTdyRVG8VAvmercLgiklQwl6jSHVHanEdkZhMj2jIUEKsVeBWOocRzhJ/7457CvmQd/kLyTabYHJ+jrT7m4iVCnGDL7Aw5W+yeOF8FoH2zfTBBARd0o/8ACk+C7pbFTHI3HbjgiBWatiYevYz8buFQdxmSyXA1kgq5hi8WQ5f/STXW4vtO2ZfbVvEHE4T4MKyb1Cs9Hd0daU/Hb1dukLo9sV7fIisMWkr0UuDvYJJMq6xBU5vnFqxYwp59NsgGK/lc6P7oYWERiZWW6Oe/aVFSapfWILTqV1/UBrsjmgtK8XZTvY4hWh0khKyxwpdyQkQ1JzXfB+CHtM3cPXMKEol3PP9XoMLy4K93+/AH2ty15mcmpBfzip4mZmy8r0g+yV8vqaanhRcBDEvZMy0SgWW59YgbavdsNm7TeIrs/WasVtLrLeRPn5jvlc/Q4FXfx320XO3LI0jMqA0f++gQjCUvfsB3wdi29Sv7NYtMqj8ltg23bzuHg2lfZG+nM8=$$$null$$$1"
 	    },
 		{
@@ -383,7 +383,7 @@
 			"api": "csp_Appto",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "qebgGqODxKrWujD2TaoZoyh6aeYntZLsTaZW8MQvVNORiHLLi/o/cEEEXkSs1vfHEuiURxMTr9zL2Kwbffz2pDvLCamrK1tuxIcczsaI7cfsAh5gcgyzOOdZUszoU45ZgS9Bi4HZ3RDHZAWEqP0JyTaH32oDxgO9nx/xhe1xyVRyj9y5gkfPVt2AP94I8/DwDI9CEstcPzGfRNHYxlCuGMtnMvVwzonmkNDyOw+N5xr2ZI3P8O1cj04mCEAE6/d2tGSU/o+EOyWVLWWw0R3hoduHvjAtuMbBt6WNCcsL51zWceiTcsl34acqd9Pya3lA52ZFRojME/R4zdTzMbvwrOEF3Up0eB58//+NM6k4tW+cBNAHDGgO8t7hcfSG/TnJLQ7Gigrn899dGbFeQMCEQf0zxMxfgYBDkADs0aza9N2QIXChgEDVFDvw0vE2m6b+bJfswmbrhNEIM//95XpMv68HEP3jCTwFEehattwHjyYE4fJoH3OtPO++pDiZltaxdizfFD6WmTO+v4qub1QfpUEXWHzG6nqDA9MioigiTRdRAb4PEMioBCJS5/gel+PGRja1cR1NtBjl4RKpSPstwrmczG8qKQrn2Zjwkz8f4OdnEBKRLaWzb/hVDAQgqRfUyohEdnQyocaYsnB5lJoMSp93QCzwAuHYueyMh2fNpcemWGfs58wrZr5VFSBaQDYv/HjsNntoPaCDpoQIV9DJKiqQsiYMblsz/Mdbnlfd1vI5X69TVPvItzh26zXjgpFBKsiFDOtvd3bNe92XnTH3jiDgBQbqoL6jUbvhNQapqRUZxovWk30UQ0YTQnqODkorKdrEB1IeNhKt0epurJG/G7A6DQ6/6lZ7pAwlYVlfXzFgZOGNb1Hs52j2F+sGvgWY00BAH1eHtpHPPdckL25JMKai3QDQUAVBxAI8njCmcNUPfl9kDZe62QMNJwaZKD9eaOjNrdVsKjah9gkiWL8BnDxJeGErZyrvKhyqg0fwNvyn8wEfeUlwRzfDysrvjdBz3$$$null$$$1"
 	    },
 		{
@@ -393,7 +393,7 @@
 			"api": "csp_AppMao",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
 			"ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
 		},
@@ -404,7 +404,7 @@
 			"api": "csp_AppMao",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
 			"ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
 		},
@@ -415,7 +415,7 @@
 			"api": "csp_AppMao",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
 			"ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
 		},
@@ -426,7 +426,7 @@
 			"api": "csp_AppSK",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
 			"ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
 		},
@@ -437,7 +437,7 @@
 			"api": "csp_AppMao",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
 			"ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
 		},
@@ -448,7 +448,7 @@
 			"api": "csp_AppSK",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
 			"ext": "FbjPcVZY48PN/RIZ5UWFrotwJJsNBoRVVzBHqOfpkA5GXtrHuyGRmwjW5KC4CySqf2yAxmgrn3cwGm1rQYEpMEJPXtme3xTRIjlF1ycdmaU/GrQ="
 		},
@@ -459,7 +459,7 @@
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "http://iosa.xn--654a.cc/api.php/app/$$$null$$$1"
 		},
 		{
@@ -470,7 +470,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0
+			"changeable": 2
 		},
         {
 			"key": "csp_zxzj",
@@ -480,7 +480,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
 			"ext": "https://www.zxzj.pro"
 		},
@@ -492,7 +492,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
 			"ext": "https://www.maolvys.com/"
 		},
@@ -504,7 +504,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"changeable": 0,
+			"changeable": 2,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
 			"ext": "http://rzys.xyz"
 		},
@@ -516,7 +516,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
 			"ext": "https://haozhansou.com/"
 		},
@@ -527,7 +527,7 @@
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "https://api123.adys.app/xgapp.php/v3/$$$null$$$1"
 		},
 		{
@@ -538,7 +538,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2"
 		},
 		{
@@ -549,7 +549,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"ext":"./lib/jianpian.json$$$1",
 			"timeout":60
 		},
@@ -561,7 +561,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
 			"ext": "https://www.libvio.pro"
 		},
@@ -573,7 +573,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "./lib/aa.json$$$https://www.libvio.pro$$$null"
 		},
 		{
@@ -584,7 +584,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"changeable": 0,
+			"changeable": 2,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2"
 		},
 		{
@@ -595,7 +595,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
 			"ext": "./lib/nmys.json"
 		},
@@ -607,7 +607,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
 			"ext": "https://www.hdmyy.com/"
 		},
@@ -619,7 +619,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2"
 		},
 		{
@@ -630,7 +630,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0
+			"changeable": 2
 		},
 		{
 			"key": "率率",
@@ -639,7 +639,7 @@
 			"api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"categories": ["国产剧", "韩剧", "日剧", "港剧", "台剧", "动作片", "喜剧片", "爱情片", "科幻片", "战争片", "恐怖片", "剧情片", "国产动漫", "日韩动漫", "欧美动漫", "大陆综艺", "日韩综艺"]
 		},
         {
@@ -650,7 +650,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
 			"timeout":30
 		},	
@@ -662,7 +662,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2"
 		},
 		{
@@ -673,7 +673,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2"
 		},
 		{
@@ -684,7 +684,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2"
 		},
 		{
@@ -695,7 +695,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2"
 		},
 		{
@@ -706,7 +706,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2"
 		},
 		{
@@ -716,7 +716,7 @@
 			"api": "csp_FirstAid",
 			"searchable": 0,
 			"quickSearch": 0,
-			"changeable": 0,
+			"changeable": 2,
 			"style": {
 				"type": "rect",
 				"ratio": 3.8
@@ -734,7 +734,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"changeable": 0
+			"changeable": 2
 		},
 		{
 			"key": "csp_qiumi",
@@ -748,7 +748,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "./js/JRKAN直播.js"
 		},
 		{
@@ -763,7 +763,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "./js/310直播.js"
 		},
 		{
@@ -778,7 +778,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "./xp/企鹅直播.json"
 		},
 		{
@@ -793,7 +793,7 @@
 			"searchable": 2,
 			"quickSearch": 0,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "./js/武享.js"
 		},
 		{
@@ -803,7 +803,7 @@
 			"api": "csp_Kugou",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0
+			"changeable": 2
 		},
 		{
 			"key": "MV_vod",
@@ -816,7 +816,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0
+			"changeable": 2
 		},
 		{
 			"key": "酷奇js",
@@ -830,7 +830,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "./js/酷奇MV.js"
 		},
 		{
@@ -846,7 +846,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"changeable": 0
+			"changeable": 2
 		},
 		{
 			"key": "斗鱼直播js",
@@ -860,7 +860,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "./js/斗鱼直播.js"
 		},
 		{
@@ -871,7 +871,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "./js/短视频.js"
 		},
 		{
@@ -887,7 +887,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"changeable": 0
+			"changeable": 2
 		},
 		{
 			"key": "Gitcafe",
@@ -897,7 +897,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 60,
 			"ext": "./lib/aa.json$$$null$$$1"
 		},
@@ -910,7 +910,7 @@
 			"quickSearch": 1,
 			"selectable": 0,
 			"filterable": 0,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 60,
 			"ext": "./lib/aa.json$$$satoken=755e8a90-5deb-4970-95f4-fae222ea1b52"
 		},
@@ -923,7 +923,7 @@
 			"quickSearch": 1,
 			"selectable": 0,
 			"filterable": 0,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 60,
 			"ext": "./lib/aa.json$$$guub123$$$aa123456"
 		},
@@ -936,7 +936,7 @@
 			"quickSearch": 1,
 			"selectable": 0,
 			"filterable": 0,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 60,
 			"ext": "./lib/aa.json"
 		},
@@ -948,7 +948,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 60,
 			"ext": "./lib/aa.json"
 		},
@@ -960,7 +960,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 60,
 			"ext": "./lib/aa.json"
 		},
@@ -972,7 +972,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 60,
 			"ext": "./lib/aa.json"
 		},
@@ -984,7 +984,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 60,
 			"ext": "./lib/aa.json"
 		},
@@ -996,7 +996,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 60,
 			"ext": "./lib/aa.json"
 		},
@@ -1009,7 +1009,7 @@
 			"quickSearch": 1,
 			"selectable": 0,
 			"filterable": 0,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 60,
 			"ext": "./lib/aa.json"
 		},
@@ -1021,7 +1021,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 60,
 			"ext": "./lib/aa.json"
 		},
@@ -1033,7 +1033,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 60,
 			"ext": "./lib/aa.json"
 		},
@@ -1045,7 +1045,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 60,
 			"ext": "./lib/aa.json$$$https://www.91panta.cn/$$$null$$$1"
 		},
@@ -1057,7 +1057,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 60,
 			"ext": "./lib/aa.json$$$https://dapanso.com$$$null"
 		},
@@ -1069,7 +1069,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 60,
 			"ext": "./lib/aa.json$$$https://pan.qianfan.app$$$null$$$QianFanID=olvai292f69vd1ccvpnqbturfkencv1w"
 		},
@@ -1095,7 +1095,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0
+			"changeable": 2
 		},
 		{
 			"key": "csp_Star",
@@ -1105,7 +1105,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0
+			"changeable": 2
 		},
 		{
 			"key": "csp_YingShi",
@@ -1115,7 +1115,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0
+			"changeable": 2
 		},
 		{
 			"key": "csp_trj",
@@ -1125,7 +1125,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"jar": "./jar/hh.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2"
 		},
 		{
@@ -1141,7 +1141,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"changeable": 0
+			"changeable": 2
 		},	
 		{
 			"key": "drpy_js_97tvs",
@@ -1151,7 +1151,7 @@
 			"ext": "./js/97tvs.js",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0
+			"changeable": 2
 		},
 		{
 			"key": "drpy_js_rrdyw",
@@ -1161,7 +1161,7 @@
 			"ext": "./js/rrdyw.js",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0
+			"changeable": 2
 		},
 		{
 			"key": "drpy_js_ddys",
@@ -1171,7 +1171,7 @@
 			"ext": "./js/ddys.js",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0
+			"changeable": 2
 		},
 		{
 			"key": "drpy_js_kk",
@@ -1181,7 +1181,7 @@
 			"ext": "./js/kkpans.js",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0
+			"changeable": 2
 		},
 		{
 			"key": "drpy_js_aipanso",
@@ -1191,7 +1191,7 @@
 			"ext": "./js/aipanso.js",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0
+			"changeable": 2
 		},
 		{
 			"key": "drpy_js_qimiao",
@@ -1201,7 +1201,7 @@
 			"ext": "./js/qimiao.js",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0
+			"changeable": 2
 		},
 		{
 			"key": "drpy_js_meow",
@@ -1211,7 +1211,7 @@
 			"ext": "./js/meow.js",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0
+			"changeable": 2
 		},
 		{
 			"key": "MeijuTT",
@@ -1220,7 +1220,7 @@
 			"api": "csp_MeijuTT",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0
+			"changeable": 2
 		},
 		{
 			"key": "SeedHub",
@@ -1229,7 +1229,7 @@
 			"api": "csp_SeedHub",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0
+			"changeable": 2
 		},	
 		{
 			"key": "drpy_js_电影港",
@@ -1239,7 +1239,7 @@
 			"ext": "./js/dygang.js",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0
+			"changeable": 2
 		},
 		{
 			"key": "drpy_js_极影网",
@@ -1249,7 +1249,7 @@
 			"ext": "./js/jiyingw.js",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0
+			"changeable": 2
 		},
 		{
 			"key": "drpy_js_MP4电影",
@@ -1259,7 +1259,7 @@
 			"ext": "./js/mp4us.js",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0
+			"changeable": 2
 		},	
 		{
 			"key": "drpy_js_酷吧",
@@ -1269,7 +1269,7 @@
 			"ext": "./js/kuba.js",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0
+			"changeable": 2
 		},
 		{
 			"key": "csp_PikPakShare.a",
@@ -1279,7 +1279,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,	
+			"changeable": 2,	
 			"ext": "./lib/aa.json$$$./lib/pikpakclass.a.json$$$./lib/pikpakclass.a.json.txt.gz"
 		},
 		{
@@ -1290,7 +1290,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"timeout": 1801,	
 			"ext": "http://javdb523.com"
 		},
@@ -1303,14 +1303,14 @@
 			},
 			"api": "https://qu.ax/Mud.js",
 			"searchable": 1, 
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "https://qu.ax/USvO.txt"
 		},
 		{
 			"key": "网络直播转点播",
 			"name": "💻电视 | 直播",
 			"type": 3,
-			"changeable": 0,
+			"changeable": 2,
 			"style": {
 				"type": "oval"
 			},
@@ -1325,7 +1325,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "https://www.kuin.one/api.php/app/"
 		},
 		{
@@ -1336,7 +1336,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
+			"changeable": 2,
 			"ext": "./xp/yingba.json"
 		},
 		{
