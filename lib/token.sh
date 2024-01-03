@@ -40,7 +40,7 @@ echo -n "{
 'thunder_vip_thread_limit':2,
 'thunder_flags':'4k|4kz|auto',
 'aliproxy':'',
-'aliproxy_url':'https://gitlab.com/kerkier/khb/-/raw/main/lib/aliproxy.gz;md5=05d0e64327ba745e70279b616f22056f',
+'aliproxy_url':'https://gitlab.com/kerkier/khb/-/raw/main/lib/aliproxy.gz;md5=da00d6247a1d8e38c4bcf1f364dda405',
 'proxy':'',
 'open_api_url':'https://aliyundrive-oauth.messense.me/oauth/access_token',
 'danmu':true,
