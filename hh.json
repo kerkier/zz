@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;ffa30cb3289ee39a479741ea8b4c511f",
+	"spider": "./jar/pg.jar;md5;82379b5f45e0b7f9d7dfd44fed733f7f",
 	"wallpaper": "https://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -1281,6 +1281,17 @@
 			"filterable": 1,
 			"changeable": 2,	
 			"ext": "./lib/aa.json$$$./lib/pikpakclass.a.json$$$./lib/pikpakclass.a.json.txt.gz"
+		},
+		{
+			"key": "csp_PikPakShare.a1",
+			"name": "🧧PikPak┃网盘",
+			"type": 3,
+			"api": "csp_PikPakShare",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,	
+			"ext": "./lib/aa.json$$$./lib/pikpakclass.a1.json$$$./lib/pikpakclass.a1.json.txt.gz"
 		},
 		{
 			"key": "csp_JavDb",

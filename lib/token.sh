@@ -59,7 +59,8 @@ echo -n "{
 'pikpak_flags':'4k|auto',
 'pikpak_thread_limit':2,
 'pikpak_vip_thread_limit':2,
-'pikpak_proxy':''
+'pikpak_proxy':'',
+'pikpak_danmu':true
 }
 ">$CURRENT_DIR/aa.json
 
