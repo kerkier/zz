@@ -45,7 +45,7 @@ echo -n "{
 'open_api_url':'https://aliyundrive-oauth.messense.me/oauth/access_token',
 'danmu':true,
 'quark_danmu':true,
-'quark_cookie':'__pus=94f8040955a91d7f805b96d482fe1a98AARsgP5rhPs5muEJHwphulmxYZL+Ci81Q9u1Jy0nNJyIhY3Gbd54XByI+UO/k9FJmieFhDSDGnnb/9AnKJBCQA7+',
+'quark_cookie':'__pus=55d839cefe7a9f6721d0f2a21b1a7156AASplWLRarBG83KDUPpRL/qXJdOKmyaFEnFQbdmGJWyiXbmkeFpxDplaEkVFC4u7wua6ZGpQuYY55j7aKZsQ16ZI',
 'uc_cookie':'__pus=5d97726d369b78bfb20bacdff42f8697AATsNBRgW4a6Qu227UH/ZI9SYfsrkpNJCdzRe3x4/hXu+cL8M30SwHoDNvRE0ZQp84y0/2I295+0ZZ7ksRt2sweB;__puus=7dfa559672bf66a840a9e931ef7e765bAAQDy6Q2bpV/Fd8NRo28Pkwn4kGiPYZpf2PG9hYxLu00JDPalyXtDW/BeOTmtFPnObbWBw89pvbsduSJLqclqgi6Fr9VD86bc9P9iOhWDthSCW1xaOW8uZPbzGAYy2lUSjhwGTkSHqKTDfKTyIZ4r2qlEA/VD1hmq0K6SeuL+d3GGCuqL0jTD9VblfaYVquFTbQ=',
 'thunder_username':'+8619370213753',
 'thunder_password':'aa123456',
