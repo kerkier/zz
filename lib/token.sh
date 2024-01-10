@@ -60,6 +60,7 @@ echo -n "{
 'pikpak_thread_limit':2,
 'pikpak_vip_thread_limit':2,
 'pikpak_proxy':'',
+'pikpak_proxy_onlyapi':true,
 'pikpak_danmu':true
 }
 ">$CURRENT_DIR/aa.json
