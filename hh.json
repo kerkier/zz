@@ -1240,7 +1240,7 @@
 		},
 		{
 			"key": "Cable",
-			"name": "🈲Cable┃磁力",
+			"name": "🈲Cable┃直连",
 			"type": 3,
 			"api": "csp_Cable",
 			"searchable": 1,
