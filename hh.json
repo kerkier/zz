@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;60f815dafca6c692fdb11ef26da2cf34",
+	"spider": "./jar/pg.jar;md5;00d02276598434285b53296e541f5213",
 	"wallpaper": "https://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -1078,6 +1078,18 @@
 			"name": "🪡秒搜┃云搜",
 			"type": 3,
 			"api": "csp_MiaoSou",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"timeout": 60,
+			"ext": "./lib/aa.json"
+		},
+		{
+			"key": "csp_HunHePan",
+			"name": "🏬混合盘┃云搜",
+			"type": 3,
+			"api": "csp_HunHePan",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
