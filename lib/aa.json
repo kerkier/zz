@@ -1,5 +1,5 @@
 {
-'token':'248fc10201b84e96b6fc85a69046ee76',
+'token':'2551600111c34890a3f2cd0574199844',
 'open_token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlOTE0YWYwNzBmZDg0N2Q5ODZlZTRiYmE5MGY5ZDM1MCIsImF1ZCI6IjczZTYxMTgzMWE3YzRkODdhYzQ5Yzg0ODFiZjlmMmM0IiwiZXhwIjoxNzEyNDU1MTU4LCJpYXQiOjE3MDQ2NzkxNTgsImp0aSI6ImM5NWIyNDliN2RiMTRmZGViOWM4ZGI1YjRkYWNhZDQ4In0.evECC4tdkDjOMcN8_F1r1EMvpQKJzrzTT6ni-Fp2Huz8erNjE4gi4CKsTquHVtYPjNllH9hZE5oD3wExrDcvuA',
 'thread_limit':32,
 'is_vip':true,
@@ -18,7 +18,7 @@
 'thunder_vip_thread_limit':2,
 'thunder_flags':'4k|4kz|auto',
 'aliproxy':'',
-'aliproxy_url':'https://gitlab.com/kerkier/khb/-/raw/main/lib/aliproxy.gz;md5=da00d6247a1d8e38c4bcf1f364dda405',
+'aliproxy_url':'https://gitlab.com/kerkier/khb/-/raw/main/lib/aliproxy.gz;md5=ea296ea7754d08b7a80c118503ace366',
 'proxy':'',
 'open_api_url':'https://aliyundrive-oauth.messense.me/oauth/access_token',
 'danmu':true,
