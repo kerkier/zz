@@ -197,6 +197,18 @@
 			"ext": "./lib/aa.json$$$https://ppxzy.net$$$null$$$1"
 		},
 		{
+			"key": "csp_YydsVip",
+			"name": "☯️YYDS┃云盘",
+			"type": 3,
+			"api": "csp_YydsVip",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"timeout": 30,		
+			"ext": "./lib/aa.json$$$http://yydsvip.cn$$$null$$$1"
+		},
+		{
 			"key": "蝴蝶",
 			"name": "🦋蝴蝶┃直连",
 			"type": 3,
@@ -1008,7 +1020,7 @@
 		},
 		{
 			"key": "csp_PikaSo",
-			"name": "🔌PikaSo┃云搜",
+			"name": "🔌皮卡搜┃云搜",
 			"type": 3,
 			"api": "csp_PikaSo",
 			"searchable": 1,
