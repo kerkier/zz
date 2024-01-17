@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;0c4a1722eb2a0a59f0e4f10ad753526f",
+	"spider": "./jar/pg.jar;md5;c99d099dbd863e665386647e6b13c96a",
 	"wallpaper": "https://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -76,6 +76,17 @@
 			"filterable": 1,
 			"changeable": 2,	
 			"ext": "./lib/al.json"
+		},
+		{
+			"key": "csp_AliShare",
+			"name": "🥅阿里┃网盘",
+			"type": 3,
+			"api": "csp_AliShare",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,	
+			"ext": "./lib/aa.json$$$./lib/alishare.txt$$$./lib/alishare.db.txt.gz"
 		},
 		{
 			"key": "csp_PikPakShare",
