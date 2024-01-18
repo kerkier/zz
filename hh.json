@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;c6ca6f053451ea5f884c7580021a9877",
+	"spider": "./jar/pg.jar;md5;8129d7742ad847d1d345cc285dd8a30d",
 	"wallpaper": "https://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -87,6 +87,17 @@
 			"filterable": 1,
 			"changeable": 2,	
 			"ext": "./lib/aa.json$$$./lib/alishare.txt"
+		},
+		{
+			"key": "csp_QuarkShare",
+			"name": "💠夸克┃网盘",
+			"type": 3,
+			"api": "csp_QuarkShare",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,	
+			"ext": "./lib/aa.json$$$./lib/quarkshare.txt"
 		},
 		{
 			"key": "csp_ThunderShare",
@@ -251,6 +262,26 @@
 			"filterable": 1,
 			"changeable": 2,
 			"ext": "https://www.bdys03.com$$$null$$$1"
+		},
+		{
+			"key": "Ys21",
+			"name": "2️⃣二一┃直连",
+			"type": 3,
+			"api": "csp_Ys21",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2
+		},
+		{
+			"key": "Ys23",
+			"name": "3️⃣二三┃直连",
+			"type": 3,
+			"api": "csp_Ys23",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2
 		},
 		{
 			"key": "天天",
