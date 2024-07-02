@@ -205,22 +205,6 @@
 			"ext": "./lib/ab.json$$$./lib/thundershare.txt"
 		},
 		{
-			"key": "csp_PikPakShare",
-			"name": "📦PikPak┃网盘",
-			"type": 3,
-			"api": "csp_PikPakShare",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"timeout": 60,	
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			},
-			"ext": "./lib/ab.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz"
-		},	
-		{
 			"key": "Wogg",
 			"name": "👽玩偶哥哥┃云盘",
 			"type": 3,
