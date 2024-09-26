@@ -80,7 +80,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
+			"jar": "./jar/ll.jar;md5;38d45e50028072c3c386a8839574fab3"
 		},
 		{
 			"key": "csp_WexIktv",
@@ -91,7 +91,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
+			"jar": "./jar/ll.jar;md5;38d45e50028072c3c386a8839574fab3"
 		},
 		{
 			"key": "csp_Alist",
@@ -114,7 +114,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
+			"jar": "./jar/ll.jar;md5;38d45e50028072c3c386a8839574fab3"
 		},
 		{
 			"key": "csp_Wexduanjuhema",
@@ -125,7 +125,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
+			"jar": "./jar/ll.jar;md5;38d45e50028072c3c386a8839574fab3"
 		},
 		{
 			"key": "csp_Wexduanju001",
@@ -136,7 +136,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
+			"jar": "./jar/ll.jar;md5;38d45e50028072c3c386a8839574fab3"
 		},
 		{
 			"key": "csp_Wexduanjuvip",
@@ -147,7 +147,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
+			"jar": "./jar/ll.jar;md5;38d45e50028072c3c386a8839574fab3"
 		},
 		{
 			"key": "csp_PushShare",
@@ -601,7 +601,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
+			"jar": "./jar/ll.jar;md5;38d45e50028072c3c386a8839574fab3"
 		},
 		{
 			"key": "csp_Wexshandian",
@@ -612,7 +612,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
+			"jar": "./jar/ll.jar;md5;38d45e50028072c3c386a8839574fab3"
 		},
 		{
 			"key": "csp_Djtt",
@@ -972,7 +972,7 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
+			"jar": "./jar/ll.jar;md5;38d45e50028072c3c386a8839574fab3"
 		},
 		{
 			"key": "csp_qiumi",
@@ -1032,7 +1032,7 @@
 			"quickSearch": 0,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
+			"jar": "./jar/ll.jar;md5;38d45e50028072c3c386a8839574fab3"
 		},
 		{
 			"key": "JustLive",
@@ -1136,6 +1136,21 @@
 			"changeable": 2
 		},
 		{
+			"key": "csp_Wexlaobaitingshu",
+			"name": "🐰白兔┃听书",
+			"type": 3,
+			"api": "csp_Wexlaobaitingshu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"style": {
+				"type": "rect",
+				"ratio": 2
+			},
+			"jar": "./jar/ll.jar;md5;38d45e50028072c3c386a8839574fab3"
+		},
+		{
 			"key": "csp_Wexliyuan",
 			"name": "🎪看呗┃戏曲",
 			"type": 3,
@@ -1148,7 +1163,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
+			"jar": "./jar/ll.jar;md5;38d45e50028072c3c386a8839574fab3"
 		},
 		{
 			"key": "csp_Wextangdou",
@@ -1163,7 +1178,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
+			"jar": "./jar/ll.jar;md5;38d45e50028072c3c386a8839574fab3"
 		},
 		{
 			"key": "csp_Wexergeduoduo",
@@ -1178,7 +1193,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
+			"jar": "./jar/ll.jar;md5;38d45e50028072c3c386a8839574fab3"
 		},
 		{
 			"key": "csp_Wexbaobaobashi",
@@ -1193,7 +1208,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
+			"jar": "./jar/ll.jar;md5;38d45e50028072c3c386a8839574fab3"
 		},
 		{
 			"key": "csp_Wexbeiwa",
@@ -1208,7 +1223,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
+			"jar": "./jar/ll.jar;md5;38d45e50028072c3c386a8839574fab3"
 		},
 		{
 			"key": "csp_Wextuxiaobei",
@@ -1223,7 +1238,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
+			"jar": "./jar/ll.jar;md5;38d45e50028072c3c386a8839574fab3"
 		},
 		{
 			"key": "csp_Wexqingfengdj",
@@ -1234,7 +1249,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
+			"jar": "./jar/ll.jar;md5;38d45e50028072c3c386a8839574fab3"
 		},
 		{
 			"key": "csp_Wexxsmp3",
@@ -1245,7 +1260,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
+			"jar": "./jar/ll.jar;md5;38d45e50028072c3c386a8839574fab3"
 		},
 		{
 			"key": "csp_Wexpsmp3",
@@ -1256,7 +1271,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;4091845e12fefff20a94f77a64438ad0"
+			"jar": "./jar/ll.jar;md5;38d45e50028072c3c386a8839574fab3"
 		},
 		{
 		    "key":"TGYunPan",
