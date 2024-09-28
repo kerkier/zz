@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;8473fd91827ecb6d556965e5d468cf02",
+	"spider": "./jar/pg.jar;md5;25c146d4d60c2320bb3499a1bc4d9744",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"logo":"./lib/cs.jpeg",
 	"sites": [{
@@ -56,16 +56,6 @@
 			"name": "🇨CNTV┃直连",
 			"type": 4,
 			"api": "https://azure.leuse.top/vod/cntv",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2
-		},
-		{
-			"key": "TV",
-			"name": "📺TV┃直连",
-			"type": 1,
-			"api": "http://zhangqun1818.serv00.net/zh/223.php",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
