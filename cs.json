@@ -2049,9 +2049,9 @@
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
 		},
 		{
-			"name": "晴天",
+			"name": "4gtv",
 			"type": 0,
-			"url": "./qt.txt",
+			"url": "./4gtv.txt",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
