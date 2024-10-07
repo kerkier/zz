@@ -341,7 +341,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$https://www.hdhive.online/$$$noproxy$$$1$$$./lib/hdhive.txt"
+			"ext": "./lib/ab.json$$$https://www.hdhive.online$$$noproxy$$$1$$$./lib/hdhive.txt"
 		},
 		{
 			"key": "4KHDR",
