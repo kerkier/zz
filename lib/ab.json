@@ -1,5 +1,5 @@
 {
-"token":"3272d63c6b494c78914cdb2cc09c1e63",
+"token":"fe7a03a0e5eb4e7eae88d2ec0b951a7b",
 "open_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIwYjg0MGQ1YzgwZDg0OGRlODNjMGRhODVjMmVjMDI4NSIsImF1ZCI6IjZiNWI1MmUxNDRmNzQ4Zjc4YjNmOTZhMjYyNmVkNWQ3IiwiZXhwIjoxNzMwMDg0MjQzLCJpYXQiOjE3MjIzMDgyNDMsImp0aSI6IjU1OTA0ODA0ODg1MDQ0ZTViM2IzMWYxYzQ5YTQxOTk5In0.chv0Rf4A7w2eobvnxFeestlaLS-sA-wOwBwjzq7zpkPTLsK6IsFNOxtDYCQUlNu06A8__XVPindnwxWYo6eVyA",
 "open_api_url":"postparam|http://api.extscreen.com/aliyundrive/token",
 "oauth_client_id":"",
@@ -66,5 +66,6 @@
 "tgsearch_api_session":"",
 "tgsearch_api_session_v1":"",
 "tgsearch_api_proxy":"proxy",
-"tgsearch_api_url":"http://127.0.0.1:10199/"
+"tgsearch_api_url":"http://127.0.0.1:10199/",
+"allinone_url":"./allinone.gz"
 }
