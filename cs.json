@@ -2125,6 +2125,13 @@
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
 		},
 		{
+			"name": "PixMan.4GTV",
+			"type": 0,
+			"url": "http://45.207.209.177:10188/4gtv.m3u",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
 			"name": "谢安琪4gtv",
 			"type": 0,
 			"url": "https://fanmingming.com/txt?url=https://kaytse2024.koyeb.app/4gtv.m3u",
