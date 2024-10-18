@@ -2061,13 +2061,7 @@
             ]
         }
     ],
-    "lives": [{
-			"name": "自用",
-			"type": 0,
-			"url": "./hh.txt",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
+    "lives": [
 		{
 				"name": "肥羊国内直播",
 				"type": 0,
@@ -2131,16 +2125,23 @@
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
 		},
 		{
-			"name": "4gtv",
+			"name": "谢安琪4gtv",
 			"type": 0,
-			"url": "./4gtv.txt",
+			"url": "https://kaytse2024.koyeb.app/4gtv.m3u",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
-			"name": "恩山iptv6",
+			"name": "谢安琪itv",
 			"type": 0,
-			"url": "https://www.now61.com/s/0l6FA/text?name=iptv.txt",
+			"url": "https://kaytse2024.koyeb.app/itv_proxy.m3u",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "litv",
+			"type": 0,
+			"url": "./litv.txt",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
