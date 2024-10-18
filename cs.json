@@ -2119,15 +2119,51 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 		{
-			"name": "重庆有线",
+			"name": "PixMan.TPTV",
 			"type": 0,
-			"url": "http://我艹.x10.mx/cqyx.m3u",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+			"url": "http://45.207.209.177:10188/tptv.m3u",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},	
+		{
+			"name": "PixMan.YSP",
+			"type": 0,
+			"url": "http://45.207.209.177:10188/ysp.m3u",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "PixMan.iTV",
+			"type": 0,
+			"url": "http://45.207.209.177:10188/itv_proxy.m3u",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "PixMan.theTV",
+			"type": 0,
+			"url": "http://45.207.209.177:10188/thetv.m3u",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "PixMan.DLHD",
+			"type": 0,
+			"url": "http://45.207.209.177:10188/dlhd.m3u",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
 			"name": "PixMan.4GTV",
 			"type": 0,
 			"url": "http://45.207.209.177:10188/4gtv.m3u",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "PixMan.BeeSport",
+			"type": 0,
+			"url": "http://45.207.209.177:10188/beesport.m3u",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
@@ -2142,6 +2178,41 @@
 			"name": "谢安琪itv",
 			"type": 0,
 			"url": "https://fanmingming.com/txt?url=https://kaytse2024.koyeb.app/itv_proxy.m3u",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "mytv",
+			"type": 0,
+			"url": "https://tv.iill.top/m3u/MyTV",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "Gather",
+			"type": 0,
+			"url": "https://tv.iill.top/m3u/Gather",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "Live",
+			"type": 0,
+			"url": "https://tv.iill.top/m3u/Live",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "Sport",
+			"type": 0,
+			"url": "https://tv.iill.top/m3u/Sport",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "Adult",
+			"type": 0,
+			"url": "https://tv.iill.top/m3u/Adult",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
