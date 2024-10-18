@@ -66,5 +66,6 @@
 "tgsearch_api_session_v1":"",
 "tgsearch_api_proxy":"proxy",
 "tgsearch_api_url":"http://127.0.0.1:10199/",
+"tgsearch_media_url":"http://127.0.0.1:10199/",
 "allinone_url":"./allinone.gz;md5=8df7988673eda96405e187422cb75fd4"
 }
