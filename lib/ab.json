@@ -25,7 +25,7 @@
 "thunder_vip_thread_limit":2,
 "thunder_flags":"4k",
 "aliproxy":"",
-"aliproxy_url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/kerkier/zz/main/lib/aliproxy.gz;md5=c9c3e4229c42e510fbb4dc8d7b796290",
+"aliproxy_url":"./aliproxy.tar.xz;md5=75169dd2fc18bead126df48176304f14",
 "proxy":"",
 "danmu":true,
 "quark_danmu":true,
@@ -59,7 +59,7 @@
 "pan115_auto_delete":true,
 "pan115_delete_code":"186011",
 "pan_order":"uc|115|quark|thunder|ali|yd|pikpak",
-"tgsearch_url":"./tgsearch;md5=0fb66d18d939be8afe9f7b156b47cd2d",
+"tgsearch_url":"./tgsearch.tar.xz;md5=4a7526f0a98af5a0be82afe42ebca558",
 "tgsearch_api_id":"",
 "tgsearch_api_hash":"",
 "tgsearch_api_session":"",
@@ -67,5 +67,5 @@
 "tgsearch_api_proxy":"proxy",
 "tgsearch_api_url":"http://127.0.0.1:10199/",
 "tgsearch_media_url":"http://127.0.0.1:10199/",
-"allinone_url":"./allinone.gz;md5=8df7988673eda96405e187422cb75fd4"
+"allinone_url":"./aliproxy.tar.xz;md5=75169dd2fc18bead126df48176304f14"
 }
