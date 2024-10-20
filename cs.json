@@ -12,7 +12,7 @@
 			"filterable": 0,
 			"indexs":1,
 			"changeable": 1,
-			"ext": "./lib/douban.json"
+			"ext": "./lib/ab.json$$$./lib/douban.json"
 		},
 		{
 			"key": "drpy_js_磁力熊",
