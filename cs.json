@@ -20,7 +20,7 @@
 		     "type":3,
 		     "api":"csp_TGDouban",
 		     "timeout":120, 
-		     "changeable": 1,
+		     "changeable": 2,
 			 "ext":{
 				   "token":"./lib/ab.json",
 				   "json":"./lib/tgsearch.json",
