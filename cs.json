@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;0df6fb6238590177c8d068a2c0cd1234",
+	"spider": "./jar/pg.jar;md5;a7f4c9ffbc215b298cb01182ff8147f1",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"logo":"./lib/cs.jpeg",
 	"sites": [{
@@ -13,6 +13,28 @@
 			"indexs":1,
 			"changeable": 1,
 			"ext": "./lib/ab.json$$$./lib/douban.json"
+		},
+		{
+		     "key":"TGDouban",
+		     "name":"✒️豆瓣┃TG",
+		     "type":3,
+		     "api":"csp_TGDouban",
+		     "timeout":120, 
+			 "ext":{
+				   "token":"./lib/ab.json",
+				   "json":"./lib/tgsearch.json",
+				   "keywords":"名称,片名,推荐",
+				   "tgsearch_url":"http://127.0.0.1:10199",
+				   "tgsearch_media_url":"http://127.0.0.1:10199",
+				   "channellist":"alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000",
+				   "proxy":"noproxy",
+				   "douban":"./lib/douban.json",
+				   "danmu":true
+			      },
+			 "style": {
+				   "type": "rect",
+				   "ratio": 1.77
+			         }
 		},
 		{
 			"key": "drpy_js_磁力熊",
