@@ -1563,18 +1563,6 @@
 			"ext": "./lib/ab.json"
 		},	
 		{
-			"key": "csp_Star",
-			"name": "⭐星视界┃直连",
-			"type": 3,
-			"api": "csp_Star",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"ext":"noproxy"
-			
-		},	
-		{
 			"key": "独播",
 			"name": "🦄独播┃直连",
 			"type": 3,
