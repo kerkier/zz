@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/pg.jar;md5;9ddbe096fbb91ee3a5c5183d80f67e4e",
+	"spider": "./jar/pg.jar;md5;504d7b207e3fda6211a22c19ea947e92",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"logo":"./lib/cs.jpeg",
 	"sites": [{
@@ -177,6 +177,22 @@
 				"ratio": 1.1
 			},
 			"ext": "./lib/ab.json$$$./lib/pushshare.txt$$$db$$$1"
+		},
+		{
+			"key": "csp_AlistShare",
+			"name": "🅰️Alist分享┃网盘",
+			"type": 3,
+			"api": "csp_AlistShare",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"timeout": 60,	
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			},
+			"ext": "./lib/ab.json$$$null$$$proxy$$$1"
 		},
 		{
 			"key": "csp_AliShare",
