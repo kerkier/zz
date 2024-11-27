@@ -93,7 +93,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;ad89290b2827c73514863bf47d58d336"
+			"jar": "./jar/ll.jar;md5;eecfb80a60deb3fc48e1cfc20c2cfb4c"
 		},
 		{
 			"key": "csp_WexIktv",
@@ -104,7 +104,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;ad89290b2827c73514863bf47d58d336"
+			"jar": "./jar/ll.jar;md5;eecfb80a60deb3fc48e1cfc20c2cfb4c"
 		},
 		{
 			"key": "csp_Alist",
@@ -127,7 +127,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;ad89290b2827c73514863bf47d58d336"
+			"jar": "./jar/ll.jar;md5;eecfb80a60deb3fc48e1cfc20c2cfb4c"
 		},
 		{
 			"key": "csp_Wexduanjuhema",
@@ -138,7 +138,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;ad89290b2827c73514863bf47d58d336"
+			"jar": "./jar/ll.jar;md5;eecfb80a60deb3fc48e1cfc20c2cfb4c"
 		},
 		{
 			"key": "csp_Wexduanju001",
@@ -149,7 +149,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;ad89290b2827c73514863bf47d58d336"
+			"jar": "./jar/ll.jar;md5;eecfb80a60deb3fc48e1cfc20c2cfb4c"
 		},
 		{
 			"key": "csp_Wexduanjuvip",
@@ -160,7 +160,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;ad89290b2827c73514863bf47d58d336"
+			"jar": "./jar/ll.jar;md5;eecfb80a60deb3fc48e1cfc20c2cfb4c"
 		},
 		{
 			"key": "csp_PushShare",
@@ -630,7 +630,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;ad89290b2827c73514863bf47d58d336"
+			"jar": "./jar/ll.jar;md5;eecfb80a60deb3fc48e1cfc20c2cfb4c"
 		},
 		{
 			"key": "csp_Wexshandian",
@@ -641,7 +641,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;ad89290b2827c73514863bf47d58d336"
+			"jar": "./jar/ll.jar;md5;eecfb80a60deb3fc48e1cfc20c2cfb4c"
 		},
 		{
 			"key": "csp_Djtt",
@@ -1001,7 +1001,7 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;ad89290b2827c73514863bf47d58d336"
+			"jar": "./jar/ll.jar;md5;eecfb80a60deb3fc48e1cfc20c2cfb4c"
 		},
 		{
 			"key": "csp_qiumi",
@@ -1061,7 +1061,7 @@
 			"quickSearch": 0,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;ad89290b2827c73514863bf47d58d336"
+			"jar": "./jar/ll.jar;md5;eecfb80a60deb3fc48e1cfc20c2cfb4c"
 		},
 		{
 			"key": "JustLive",
@@ -1177,7 +1177,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;ad89290b2827c73514863bf47d58d336"
+			"jar": "./jar/ll.jar;md5;eecfb80a60deb3fc48e1cfc20c2cfb4c"
 		},
 		{
 			"key": "csp_Wexliyuan",
@@ -1192,7 +1192,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;ad89290b2827c73514863bf47d58d336"
+			"jar": "./jar/ll.jar;md5;eecfb80a60deb3fc48e1cfc20c2cfb4c"
 		},
 		{
 			"key": "csp_Wextangdou",
@@ -1207,7 +1207,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;ad89290b2827c73514863bf47d58d336"
+			"jar": "./jar/ll.jar;md5;eecfb80a60deb3fc48e1cfc20c2cfb4c"
 		},
 		{
 			"key": "csp_Wexergeduoduo",
@@ -1222,7 +1222,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;ad89290b2827c73514863bf47d58d336"
+			"jar": "./jar/ll.jar;md5;eecfb80a60deb3fc48e1cfc20c2cfb4c"
 		},
 		{
 			"key": "csp_Wexbaobaobashi",
@@ -1237,7 +1237,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;ad89290b2827c73514863bf47d58d336"
+			"jar": "./jar/ll.jar;md5;eecfb80a60deb3fc48e1cfc20c2cfb4c"
 		},
 		{
 			"key": "csp_Wexbeiwa",
@@ -1252,7 +1252,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;ad89290b2827c73514863bf47d58d336"
+			"jar": "./jar/ll.jar;md5;eecfb80a60deb3fc48e1cfc20c2cfb4c"
 		},
 		{
 			"key": "csp_Wextuxiaobei",
@@ -1267,7 +1267,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;ad89290b2827c73514863bf47d58d336"
+			"jar": "./jar/ll.jar;md5;eecfb80a60deb3fc48e1cfc20c2cfb4c"
 		},
 		{
 			"key": "csp_Wexqingfengdj",
@@ -1278,7 +1278,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;ad89290b2827c73514863bf47d58d336"
+			"jar": "./jar/ll.jar;md5;eecfb80a60deb3fc48e1cfc20c2cfb4c"
 		},
 		{
 			"key": "csp_Wexxsmp3",
@@ -1289,7 +1289,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;ad89290b2827c73514863bf47d58d336"
+			"jar": "./jar/ll.jar;md5;eecfb80a60deb3fc48e1cfc20c2cfb4c"
 		},
 		{
 			"key": "csp_Wexpsmp3",
@@ -1300,7 +1300,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;ad89290b2827c73514863bf47d58d336"
+			"jar": "./jar/ll.jar;md5;eecfb80a60deb3fc48e1cfc20c2cfb4c"
 		},
 		{
 		    "key":"TGYunPanLocal",
