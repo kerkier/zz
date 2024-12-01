@@ -67,5 +67,5 @@
 "tgsearch_api_proxy":"proxy",
 "tgsearch_api_url":"http://127.0.0.1:10199/",
 "tgsearch_media_url":"http://127.0.0.1:10199/",
-"allinone_url":"./aliproxy.tar.xz;md5=2e5efa2550be68ab3d28cad7b681d00a"
+"allinone_url":"./aliproxy.tar.xz;md5=362c4c46b85afc9306cdf30275e22b49"
 }
