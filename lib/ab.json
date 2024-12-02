@@ -25,7 +25,7 @@
 "thunder_vip_thread_limit":2,
 "thunder_flags":"4k",
 "aliproxy":"",
-"aliproxy_url":"./aliproxy.tar.xz;md5=e1aed19358a7eb73b6b40a574f33a5f9",
+"aliproxy_url":"./aliproxy.tar.xz;md5=23740c0fd1d014b906567f6ef491391f",
 "proxy":"",
 "danmu":true,
 "quark_danmu":true,
@@ -67,5 +67,5 @@
 "tgsearch_api_proxy":"proxy",
 "tgsearch_api_url":"http://127.0.0.1:10199/",
 "tgsearch_media_url":"http://127.0.0.1:10199/",
-"allinone_url":"./aliproxy.tar.xz;md5=362c4c46b85afc9306cdf30275e22b49"
+"allinone_url":"./aliproxy.tar.xz;md5=2cf90cb9ffd1294e3e436cdaea761a9a"
 }
